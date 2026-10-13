@@ -1,0 +1,132 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+  <style>
+    body { margin: 0; background: transparent; }
+    canvas { image-rendering: pixelated; }
+  </style>
+</head>
+<body>
+  <canvas id="canvas" width="512" height="512"></canvas>
+  <script>
+    const canvas = document.getElementById('canvas');
+    const ctx = canvas.getContext('2d');
+    
+    // Draw the EcoUNCP logo
+    const size = 512;
+    const center = size / 2;
+    const radius = size * 0.45;
+    
+    // Dark background circle
+    const darkGrad = ctx.createRadialGradient(center, center, 0, center, center, radius);
+    darkGrad.addColorStop(0, '#1A1A1A');
+    darkGrad.addColorStop(1, '#0D0D0D');
+    
+    // Gold gradient
+    const goldGrad = ctx.createLinearGradient(0, 0, size, size);
+    goldGrad.addColorStop(0, '#FFD700');
+    goldGrad.addColorStop(1, '#C09000');
+    
+    // Green gradient
+    const greenGrad = ctx.createLinearGradient(0, 0, size, size);
+    greenGrad.addColorStop(0, '#2E7D32');
+    greenGrad.addColorStop(1, '#4CAF50');
+    
+    // Background circle
+    ctx.beginPath();
+    ctx.arc(center, center, radius, 0, Math.PI * 2);
+    ctx.fillStyle = darkGrad;
+    ctx.fill();
+    ctx.strokeStyle = goldGrad;
+    ctx.lineWidth = 6;
+    ctx.stroke();
+    
+    // Draw three recycling arrows as leaf
+    const arrowSize = radius * 0.6;
+    const arrowPositions = [
+      { angle: -Math.PI/2, cx: 0, cy: -radius * 0.35 },
+      { angle: Math.PI/6, cx: radius * 0.3, cy: radius * 0.15 },
+      { angle: 5*Math.PI/6, cx: -radius * 0.3, cy: radius * 0.15 }
+    ];
+    
+    ctx.save();
+    ctx.translate(center, center);
+    
+    arrowPositions.forEach(pos => {
+      ctx.save();
+      ctx.rotate(pos.angle);
+      ctx.translate(0, pos.cy || 0);
+      if (pos.cx) ctx.translate(pos.cx, 0);
+      
+      // Arrow shape
+      ctx.beginPath();
+      ctx.moveTo(0, -arrowSize);
+      ctx.lineTo(0, -arrowSize * 0.6);
+      ctx.lineTo(arrowSize * 0.4, -arrowSize * 0.6);
+      ctx.lineTo(0, -arrowSize * 0.2);
+      ctx.lineTo(-arrowSize * 0.4, -arrowSize * 0.6);
+      ctx.lineTo(0, -arrowSize * 0.6);
+      ctx.closePath();
+      ctx.fillStyle = greenGrad;
+      ctx.fill();
+      ctx.strokeStyle = '#1B5E20';
+      ctx.lineWidth = 2;
+      ctx.stroke();
+      
+      // Stem
+      ctx.beginPath();
+      ctx.moveTo(0, -arrowSize * 0.6);
+      ctx.lineTo(0, -arrowSize * 0.85);
+      ctx.strokeStyle = goldGrad;
+      ctx.lineWidth = 4;
+      ctx.lineCap = 'round';
+      ctx.stroke();
+      
+      ctx.restore();
+    });
+    ctx.restore();
+    
+    // Center circle with ECO
+    ctx.beginPath();
+    ctx.arc(center, center, radius * 0.3, 0, Math.PI * 2);
+    ctx.fillStyle = darkGrad;
+    ctx.fill();
+    ctx.strokeStyle = goldGrad;
+    ctx.lineWidth = 3;
+    ctx.stroke();
+    
+    // ECO text
+    ctx.font = 'bold ' + (radius * 0.35) + 'px Arial';
+    ctx.textAlign = 'center';
+    ctx.textBaseline = 'middle';
+    ctx.fillStyle = goldGrad;
+    ctx.fillText('ECO', center, center + radius * 0.05);
+    
+    // UNCP small text
+    ctx.font = 'bold ' + (radius * 0.12) + 'px Arial';
+    ctx.fillStyle = '#E0C000';
+    ctx.fillText('UNCP', center, center + radius * 0.3);
+    
+    // Export function
+    function exportPNG(size) {
+      const exportCanvas = document.createElement('canvas');
+      exportCanvas.width = size;
+      exportCanvas.height = size;
+      const exportCtx = exportCanvas.getContext('2d');
+      exportCtx.drawImage(canvas, 0, 0, size, size);
+      return exportCanvas.toDataURL('image/png');
+    }
+    
+    // Generate all sizes
+    const sizes = [72, 96, 128, 144, 152, 192, 384, 512];
+    sizes.forEach(size => {
+      const dataUrl = exportPNG(size);
+      const link = document.createElement('a');
+      link.download = `icon-${size}.png`;
+      link.href = dataUrl;
+      link.click();
+    });
+  </script>
+</body>
+</html>

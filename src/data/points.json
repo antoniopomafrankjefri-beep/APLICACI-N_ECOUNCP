@@ -1,0 +1,1617 @@
+[
+  {
+    "id": "P01",
+    "code": "P01",
+    "name": "Pabellón de Laboratorios de Investigación",
+    "referenceBuilding": "Entrada al Pabellón de Laboratorios de Investigación",
+    "lat": -12.0345115,
+    "lng": -75.2392922,
+    "photoUrl": "https://images.unsplash.com/photo-1581091226825-a6a2a5aee158?w=800&q=80",
+    "conservationState": "bueno",
+    "accessibility": "rampa",
+    "observations": "Techado",
+    "bins": [
+      {
+        "categoryId": "plastico",
+        "quantity": 1,
+        "condition": "fair"
+      },
+      {
+        "categoryId": "papel_carton",
+        "quantity": 1,
+        "condition": "fair"
+      },
+      {
+        "categoryId": "no_aprovechable",
+        "quantity": 1,
+        "condition": "fair"
+      },
+      {
+        "categoryId": "vidrio",
+        "quantity": 1,
+        "condition": "fair"
+      },
+      {
+        "categoryId": "organico",
+        "quantity": 1,
+        "condition": "fair"
+      }
+    ],
+    "active": true
+  },
+  {
+    "id": "P02",
+    "code": "P02",
+    "name": "Comedor Universitario Antiguo",
+    "referenceBuilding": "Puerta principal del Comedor Universitario Antiguo",
+    "lat": -12.0340292,
+    "lng": -75.2384805,
+    "photoUrl": "https://images.unsplash.com/photo-1554118811-1e0d58224f24?w=800&q=80",
+    "conservationState": "bueno",
+    "accessibility": "nivel",
+    "observations": "Techado",
+    "bins": [
+      {
+        "categoryId": "plastico",
+        "quantity": 1,
+        "condition": "fair"
+      },
+      {
+        "categoryId": "papel_carton",
+        "quantity": 1,
+        "condition": "fair"
+      },
+      {
+        "categoryId": "no_aprovechable",
+        "quantity": 1,
+        "condition": "fair"
+      },
+      {
+        "categoryId": "vidrio",
+        "quantity": 1,
+        "condition": "fair"
+      },
+      {
+        "categoryId": "organico",
+        "quantity": 1,
+        "condition": "fair"
+      }
+    ],
+    "active": true
+  },
+  {
+    "id": "P03",
+    "code": "P03",
+    "name": "Pabellón G - Monumento FMH",
+    "referenceBuilding": "Al costado del monumento de la FMH",
+    "lat": -12.032749,
+    "lng": -75.2358418,
+    "photoUrl": "https://images.unsplash.com/photo-1523050854058-8df90110c9f1?w=800&q=80",
+    "conservationState": "regular",
+    "accessibility": "nivel",
+    "observations": "Sin techo, despintado",
+    "bins": [
+      {
+        "categoryId": "organico",
+        "quantity": 1,
+        "condition": "fair"
+      },
+      {
+        "categoryId": "inorganico",
+        "quantity": 1,
+        "condition": "fair"
+      }
+    ],
+    "active": true
+  },
+  {
+    "id": "P04",
+    "code": "P04",
+    "name": "Pabellón G - Laboratorio Central FMH",
+    "referenceBuilding": "Frente al Laboratorio Central de la FMH",
+    "lat": -12.032709,
+    "lng": -75.235706,
+    "photoUrl": "https://images.unsplash.com/photo-1581091226825-a6a2a5aee158?w=800&q=80",
+    "conservationState": "bueno",
+    "accessibility": "nivel",
+    "observations": "Sin techo, pintados de blanco",
+    "bins": [
+      {
+        "categoryId": "organico",
+        "quantity": 1,
+        "condition": "fair"
+      },
+      {
+        "categoryId": "inorganico",
+        "quantity": 1,
+        "condition": "fair"
+      }
+    ],
+    "active": true
+  },
+  {
+    "id": "P05",
+    "code": "P05",
+    "name": "Pabellón G - Escaleras y Gestión Calidad",
+    "referenceBuilding": "Frente a la escaleras y la Gestión de Calidad",
+    "lat": -12.0327162,
+    "lng": -75.2356742,
+    "photoUrl": "https://images.unsplash.com/photo-1523050854058-8df90110c9f1?w=800&q=80",
+    "conservationState": "regular",
+    "accessibility": "nivel",
+    "observations": "Sin techo, despintado",
+    "bins": [
+      {
+        "categoryId": "organico",
+        "quantity": 1,
+        "condition": "fair"
+      },
+      {
+        "categoryId": "inorganico",
+        "quantity": 1,
+        "condition": "fair"
+      }
+    ],
+    "active": true
+  },
+  {
+    "id": "P06",
+    "code": "P06",
+    "name": "Pabellón A - Espaldas Comunicación",
+    "referenceBuilding": "Espaldas de la Facultad de Ciencias de la Comunicación",
+    "lat": -12.033246,
+    "lng": -75.2364004,
+    "photoUrl": "https://images.unsplash.com/photo-1523050854058-8df90110c9f1?w=800&q=80",
+    "conservationState": "malo",
+    "accessibility": "nivel",
+    "observations": "Sin techo, despintado y un tacho roto",
+    "bins": [
+      {
+        "categoryId": "organico",
+        "quantity": 1,
+        "condition": "fair"
+      },
+      {
+        "categoryId": "inorganico",
+        "quantity": 1,
+        "condition": "fair"
+      }
+    ],
+    "active": true
+  },
+  {
+    "id": "P07",
+    "code": "P07",
+    "name": "Pabellón A - Espaldas Trabajo Social",
+    "referenceBuilding": "Espaldas de la Facultad de Trabajo Social",
+    "lat": -12.0334714,
+    "lng": -75.2370079,
+    "photoUrl": "https://images.unsplash.com/photo-1523050854058-8df90110c9f1?w=800&q=80",
+    "conservationState": "bueno",
+    "accessibility": "rampa",
+    "observations": "Techado, despintado",
+    "bins": [
+      {
+        "categoryId": "plastico",
+        "quantity": 1,
+        "condition": "fair"
+      },
+      {
+        "categoryId": "papel_carton",
+        "quantity": 1,
+        "condition": "fair"
+      },
+      {
+        "categoryId": "no_aprovechable",
+        "quantity": 1,
+        "condition": "fair"
+      },
+      {
+        "categoryId": "vidrio",
+        "quantity": 1,
+        "condition": "fair"
+      },
+      {
+        "categoryId": "organico",
+        "quantity": 1,
+        "condition": "fair"
+      }
+    ],
+    "active": true
+  },
+  {
+    "id": "P08",
+    "code": "P08",
+    "name": "Puerta 1 UNCP - Área Verde",
+    "referenceBuilding": "Area verde de la Puerta 1",
+    "lat": -12.0322368,
+    "lng": -75.2339234,
+    "photoUrl": "https://images.unsplash.com/photo-1495474472287-4d71bcdd2085?w=800&q=80",
+    "conservationState": "regular",
+    "accessibility": "nivel",
+    "observations": "Sin techo, despintado",
+    "bins": [
+      {
+        "categoryId": "organico",
+        "quantity": 1,
+        "condition": "fair"
+      },
+      {
+        "categoryId": "inorganico",
+        "quantity": 1,
+        "condition": "fair"
+      }
+    ],
+    "active": true
+  },
+  {
+    "id": "P09",
+    "code": "P09",
+    "name": "Puerta 1 UNCP - Entrada",
+    "referenceBuilding": "Entrada de la Puerta 1",
+    "lat": -12.0321824,
+    "lng": -75.2334571,
+    "photoUrl": "https://images.unsplash.com/photo-1523050854058-8df90110c9f1?w=800&q=80",
+    "conservationState": "bueno",
+    "accessibility": "escalones",
+    "observations": "Sin techo, todos de color verde pero con su respectivo nombre",
+    "bins": [
+      {
+        "categoryId": "plastico",
+        "quantity": 1,
+        "condition": "fair"
+      },
+      {
+        "categoryId": "papel_carton",
+        "quantity": 1,
+        "condition": "fair"
+      },
+      {
+        "categoryId": "no_aprovechable",
+        "quantity": 1,
+        "condition": "fair"
+      },
+      {
+        "categoryId": "vidrio",
+        "quantity": 1,
+        "condition": "fair"
+      },
+      {
+        "categoryId": "organico",
+        "quantity": 1,
+        "condition": "fair"
+      }
+    ],
+    "active": true
+  },
+  {
+    "id": "P10",
+    "code": "P10",
+    "name": "Pabellón A - Ingreso Principal Área IV",
+    "referenceBuilding": "Frente al ingreso del pabellón principal del Área IV",
+    "lat": -12.033209,
+    "lng": -75.236887,
+    "photoUrl": "https://images.unsplash.com/photo-1523050854058-8df90110c9f1?w=800&q=80",
+    "conservationState": "bueno",
+    "accessibility": "nivel",
+    "observations": "Techado, todos de color plomo pero con su respectivo nombre",
+    "bins": [
+      {
+        "categoryId": "plastico",
+        "quantity": 1,
+        "condition": "fair"
+      },
+      {
+        "categoryId": "papel_carton",
+        "quantity": 1,
+        "condition": "fair"
+      },
+      {
+        "categoryId": "vidrio",
+        "quantity": 1,
+        "condition": "fair"
+      },
+      {
+        "categoryId": "organico",
+        "quantity": 1,
+        "condition": "fair"
+      }
+    ],
+    "active": true
+  },
+  {
+    "id": "P11",
+    "code": "P11",
+    "name": "Pabellón A - Patio Posterior",
+    "referenceBuilding": "Patio posterior / pasillo central frente al pabellón de aulas",
+    "lat": -12.03308,
+    "lng": -75.236653,
+    "photoUrl": "https://images.unsplash.com/photo-1523050854058-8df90110c9f1?w=800&q=80",
+    "conservationState": "bueno",
+    "accessibility": "nivel",
+    "observations": "Techado, despintado y con stickers",
+    "bins": [
+      {
+        "categoryId": "organico",
+        "quantity": 1,
+        "condition": "fair"
+      },
+      {
+        "categoryId": "inorganico",
+        "quantity": 1,
+        "condition": "fair"
+      }
+    ],
+    "active": true
+  },
+  {
+    "id": "P12",
+    "code": "P12",
+    "name": "Pabellón A - Escalinatas",
+    "referenceBuilding": "Al pie de las escalinatas de los pabellones",
+    "lat": -12.032876,
+    "lng": -75.236695,
+    "photoUrl": "https://images.unsplash.com/photo-1523050854058-8df90110c9f1?w=800&q=80",
+    "conservationState": "regular",
+    "accessibility": "nivel",
+    "observations": "Techado, despintado y con stickers",
+    "bins": [
+      {
+        "categoryId": "organico",
+        "quantity": 1,
+        "condition": "fair"
+      },
+      {
+        "categoryId": "inorganico",
+        "quantity": 1,
+        "condition": "fair"
+      },
+      {
+        "categoryId": "peligroso",
+        "quantity": 1,
+        "condition": "fair"
+      }
+    ],
+    "active": true
+  },
+  {
+    "id": "P13",
+    "code": "P13",
+    "name": "Pabellón A - Áreas Verdes y Pasillo",
+    "referenceBuilding": "Zona de áreas verdes y pasillo principal",
+    "lat": -12.033019,
+    "lng": -75.236918,
+    "photoUrl": "https://images.unsplash.com/photo-1495474472287-4d71bcdd2085?w=800&q=80",
+    "conservationState": "regular",
+    "accessibility": "nivel",
+    "observations": "Techado, todos de color plomo pero con su respectivo nombre",
+    "bins": [
+      {
+        "categoryId": "plastico",
+        "quantity": 1,
+        "condition": "fair"
+      },
+      {
+        "categoryId": "papel_carton",
+        "quantity": 1,
+        "condition": "fair"
+      },
+      {
+        "categoryId": "vidrio",
+        "quantity": 1,
+        "condition": "fair"
+      },
+      {
+        "categoryId": "organico",
+        "quantity": 1,
+        "condition": "fair"
+      }
+    ],
+    "active": true
+  },
+  {
+    "id": "P14",
+        "code": "P14",
+        "name": "Pabellón A - Acceso Escuela Sociología",
+        "referenceBuilding": "Frente al acceso principal de la Escuela de Sociología",
+        "lat": -12.032486,
+        "lng": -75.236959,
+        "photoUrl": "https://images.unsplash.com/photo-1503676260728-1c00da094a0b?w=800&q=80",
+        "conservationState": "regular",
+        "accessibility": "nivel",
+        "observations": "Sin techo, despintado",
+    "bins": [
+      {
+        "categoryId": "organico",
+        "quantity": 1,
+        "condition": "fair"
+      },
+      {
+        "categoryId": "inorganico",
+        "quantity": 1,
+        "condition": "fair"
+      }
+    ],
+    "active": true
+  },
+  {
+    "id": "P15",
+    "code": "P15",
+    "name": "Losas Deportivas - Frente Estadio",
+    "referenceBuilding": "Frente al estadio",
+    "lat": -12.0335294,
+    "lng": -75.2395641,
+    "photoUrl": "https://images.unsplash.com/photo-1765605898805-86923208c52b?w=800&q=80",
+    "conservationState": "bueno",
+    "accessibility": "nivel",
+    "observations": "Techado 5 módulos",
+    "bins": [
+      {
+        "categoryId": "plastico",
+        "quantity": 1,
+        "condition": "fair"
+      },
+      {
+        "categoryId": "papel_carton",
+        "quantity": 1,
+        "condition": "fair"
+      },
+      {
+        "categoryId": "no_aprovechable",
+        "quantity": 1,
+        "condition": "fair"
+      },
+      {
+        "categoryId": "vidrio",
+        "quantity": 1,
+        "condition": "fair"
+      },
+      {
+        "categoryId": "organico",
+        "quantity": 1,
+        "condition": "fair"
+      }
+    ],
+    "active": true
+  },
+  {
+    "id": "P16",
+    "code": "P16",
+    "name": "Losas Deportivas - Frente Lozas",
+    "referenceBuilding": "Frente a las lozas",
+    "lat": -12.0333717,
+    "lng": -75.2391721,
+    "photoUrl": "https://images.unsplash.com/photo-1765605898805-86923208c52b?w=800&q=80",
+    "conservationState": "regular",
+    "accessibility": "nivel",
+    "observations": "2 módulos",
+    "bins": [
+      {
+        "categoryId": "organico",
+        "quantity": 1,
+        "condition": "fair"
+      },
+      {
+        "categoryId": "inorganico",
+        "quantity": 1,
+        "condition": "fair"
+      }
+    ],
+    "active": true
+  },
+  {
+    "id": "P17",
+    "code": "P17",
+    "name": "Patio FIQ",
+    "referenceBuilding": "Patio FIQ",
+    "lat": -12.033195,
+    "lng": -75.2386414,
+    "photoUrl": "https://images.unsplash.com/photo-1532094349884-543bc11b234d?w=800&q=80",
+    "conservationState": "regular",
+    "accessibility": "escalones",
+    "observations": "3 módulos",
+    "bins": [
+      {
+        "categoryId": "organico",
+        "quantity": 1,
+        "condition": "fair"
+      },
+      {
+        "categoryId": "inorganico",
+        "quantity": 1,
+        "condition": "fair"
+      }
+    ],
+    "active": true
+  },
+  {
+    "id": "P18",
+    "code": "P18",
+    "name": "Facultad de Ingeniería Química - Zona Descanso",
+    "referenceBuilding": "Zona de descanso FIQ",
+    "lat": -12.0330041,
+    "lng": -75.2385837,
+    "photoUrl": "https://images.unsplash.com/photo-1532094349884-543bc11b234d?w=800&q=80",
+    "conservationState": "regular",
+    "accessibility": "escalones",
+    "observations": "Techado 3 módulos",
+    "bins": [
+      {
+        "categoryId": "papel_carton",
+        "quantity": 1,
+        "condition": "fair"
+      },
+      {
+        "categoryId": "organico",
+        "quantity": 1,
+        "condition": "fair"
+      },
+      {
+        "categoryId": "plastico",
+        "quantity": 1,
+        "condition": "fair"
+      }
+    ],
+    "active": true
+  },
+  {
+    "id": "P19",
+    "code": "P19",
+    "name": "Facultad de Ingeniería Química - Zona Descanso 2",
+    "referenceBuilding": "Zona de descanso FIQ",
+    "lat": -12.0328972,
+    "lng": -75.2384121,
+    "photoUrl": "https://images.unsplash.com/photo-1532094349884-543bc11b234d?w=800&q=80",
+    "conservationState": "regular",
+    "accessibility": "escalones",
+    "observations": "3 módulos",
+    "bins": [
+      {
+        "categoryId": "organico",
+        "quantity": 1,
+        "condition": "fair"
+      },
+      {
+        "categoryId": "inorganico",
+        "quantity": 1,
+        "condition": "fair"
+      },
+      {
+        "categoryId": "peligroso",
+        "quantity": 1,
+        "condition": "fair"
+      }
+    ],
+    "active": true
+  },
+  {
+    "id": "P20",
+        "code": "P20",
+        "name": "Entrada Facultad de Ingeniería Química",
+        "referenceBuilding": "Entrada FIQ",
+        "lat": -12.0328087,
+        "lng": -75.2383071,
+        "photoUrl": "/images/entrada-fiq-p20.png",
+        "conservationState": "regular",
+        "accessibility": "nivel",
+        "observations": "Techado 3 módulos",
+    "bins": [
+      {
+        "categoryId": "papel_carton",
+        "quantity": 1,
+        "condition": "fair"
+      },
+      {
+        "categoryId": "organico",
+        "quantity": 1,
+        "condition": "fair"
+      },
+      {
+        "categoryId": "plastico",
+        "quantity": 1,
+        "condition": "fair"
+      }
+    ],
+    "active": true
+  },
+  {
+    "id": "P21",
+    "code": "P21",
+    "name": "Cafetín FIQ",
+    "referenceBuilding": "Frente cafetín",
+    "lat": -12.0328507,
+    "lng": -75.2380265,
+    "photoUrl": "https://images.unsplash.com/photo-1532094349884-543bc11b234d?w=800&q=80",
+    "conservationState": "regular",
+    "accessibility": "escalones",
+    "observations": "3 módulos",
+    "bins": [
+      {
+        "categoryId": "organico",
+        "quantity": 1,
+        "condition": "fair"
+      },
+      {
+        "categoryId": "inorganico",
+        "quantity": 1,
+        "condition": "fair"
+      }
+    ],
+    "active": true
+  },
+  {
+    "id": "P22",
+    "code": "P22",
+    "name": "Facultad de Educación - Patio 1",
+    "referenceBuilding": "Patio Facultad de Educación",
+    "lat": -12.0326972,
+    "lng": -75.2376983,
+    "photoUrl": "https://images.unsplash.com/photo-1497633762245-7b3b51919b76?w=800&q=80",
+    "conservationState": "bueno",
+    "accessibility": "nivel",
+    "observations": "2 módulos",
+    "bins": [
+      {
+        "categoryId": "organico",
+        "quantity": 1,
+        "condition": "fair"
+      },
+      {
+        "categoryId": "inorganico",
+        "quantity": 1,
+        "condition": "fair"
+      }
+    ],
+    "active": true
+  },
+  {
+    "id": "P23",
+    "code": "P23",
+    "name": "Facultad de Educación - Patio 2",
+    "referenceBuilding": "Patio Facultad de Educación",
+    "lat": -12.0325559,
+    "lng": -75.2377368,
+    "photoUrl": "https://images.unsplash.com/photo-1497633762245-7b3b51919b76?w=800&q=80",
+    "conservationState": "bueno",
+    "accessibility": "nivel",
+    "observations": "2 módulos",
+    "bins": [
+      {
+        "categoryId": "organico",
+        "quantity": 1,
+        "condition": "fair"
+      },
+      {
+        "categoryId": "inorganico",
+        "quantity": 1,
+        "condition": "fair"
+      }
+    ],
+    "active": true
+  },
+  {
+    "id": "P24",
+    "code": "P24",
+    "name": "Facultad de Educación - Patio 3",
+    "referenceBuilding": "Patio Facultad de Educación",
+    "lat": -12.032566,
+    "lng": -75.2375477,
+    "photoUrl": "https://images.unsplash.com/photo-1497633762245-7b3b51919b76?w=800&q=80",
+    "conservationState": "bueno",
+    "accessibility": "nivel",
+    "observations": "3 módulos",
+    "bins": [
+      {
+        "categoryId": "organico",
+        "quantity": 1,
+        "condition": "fair"
+      },
+      {
+        "categoryId": "inorganico",
+        "quantity": 1,
+        "condition": "fair"
+      },
+      {
+        "categoryId": "peligroso",
+        "quantity": 1,
+        "condition": "fair"
+      }
+    ],
+    "active": true
+  },
+  {
+    "id": "P25",
+    "code": "P25",
+    "name": "Biblioteca Facultad de Educación",
+    "referenceBuilding": "Frente al Paraninfo 3",
+    "lat": -12.0326447,
+    "lng": -75.2373938,
+    "photoUrl": "https://images.unsplash.com/photo-1481627834876-b7833e8f5570?w=800&q=80",
+    "conservationState": "regular",
+    "accessibility": "nivel",
+    "observations": "2 módulos",
+    "bins": [
+      {
+        "categoryId": "organico",
+        "quantity": 1,
+        "condition": "fair"
+      },
+      {
+        "categoryId": "inorganico",
+        "quantity": 1,
+        "condition": "fair"
+      }
+    ],
+    "active": true
+  },
+  {
+    "id": "P26",
+    "code": "P42",
+    "name": "Parque de la Integración - Cafetín IIA",
+    "referenceBuilding": "Ingreso al Cafetín de Industrias Alimentarias",
+    "lat": -12.0324267,
+    "lng": -75.2366857,
+    "photoUrl": "https://images.unsplash.com/photo-1495474472287-4d71bcdd2085?w=800&q=80",
+    "conservationState": "regular",
+    "accessibility": "nivel",
+    "observations": "Sin techo, despintado",
+    "bins": [
+      {
+        "categoryId": "organico",
+        "quantity": 1,
+        "condition": "fair"
+      },
+      {
+        "categoryId": "inorganico",
+        "quantity": 1,
+        "condition": "fair"
+      }
+    ],
+    "active": true
+  },
+  {
+    "id": "P27",
+    "code": "P27",
+    "name": "Parque de la Integración - Medicina Humana",
+    "referenceBuilding": "Entrada a la Facultad de Medicina Humana",
+    "lat": -12.032123,
+    "lng": -75.2361513,
+    "photoUrl": "https://images.unsplash.com/photo-1576091160399-112ba8d25d1d?w=800&q=80",
+    "conservationState": "regular",
+    "accessibility": "nivel",
+    "observations": "2 módulos",
+    "bins": [
+      {
+        "categoryId": "organico",
+        "quantity": 1,
+        "condition": "fair"
+      },
+      {
+        "categoryId": "inorganico",
+        "quantity": 1,
+        "condition": "fair"
+      }
+    ],
+    "active": true
+  },
+  {
+    "id": "P28",
+    "code": "P28",
+    "name": "Parque de la Integración - Cafetín IIA",
+    "referenceBuilding": "Cafetín de la Facultad de Ingeniería de Industrias Alimentarias",
+    "lat": -12.0317531,
+    "lng": -75.2362422,
+    "photoUrl": "https://images.unsplash.com/photo-1495474472287-4d71bcdd2085?w=800&q=80",
+    "conservationState": "regular",
+    "accessibility": "nivel",
+    "observations": "2 módulos",
+    "bins": [
+      {
+        "categoryId": "organico",
+        "quantity": 1,
+        "condition": "fair"
+      },
+      {
+        "categoryId": "inorganico",
+        "quantity": 1,
+        "condition": "fair"
+      }
+    ],
+    "active": true
+  },
+  {
+    "id": "P29",
+    "code": "P29",
+    "name": "Facultad de Ingeniería de Minas",
+    "referenceBuilding": "Patio Ingeniería de Minas",
+    "lat": -12.0316561,
+    "lng": -75.2361067,
+    "photoUrl": "https://images.unsplash.com/photo-1607237138185-eedd9c632b0b?w=800&q=80",
+    "conservationState": "regular",
+    "accessibility": "nivel",
+    "observations": "2 módulos",
+    "bins": [
+      {
+        "categoryId": "organico",
+        "quantity": 1,
+        "condition": "fair"
+      },
+      {
+        "categoryId": "inorganico",
+        "quantity": 1,
+        "condition": "fair"
+      }
+    ],
+    "active": true
+  },
+  {
+    "id": "P30",
+    "code": "P30",
+    "name": "Facultad de Ingeniería Metalurgia y Materiales",
+    "referenceBuilding": "Patio Ingeniería de Metalurgia y de Materiales",
+    "lat": -12.0315115,
+    "lng": -75.2355119,
+    "photoUrl": "https://images.unsplash.com/photo-1607237138185-eedd9c632b0b?w=800&q=80",
+    "conservationState": "regular",
+    "accessibility": "nivel",
+    "observations": "2 módulos",
+    "bins": [
+      {
+        "categoryId": "organico",
+        "quantity": 1,
+        "condition": "fair"
+      },
+      {
+        "categoryId": "inorganico",
+        "quantity": 1,
+        "condition": "fair"
+      }
+    ],
+    "active": true
+  },
+  {
+    "id": "P31",
+    "code": "P31",
+    "name": "Unidad de Transportes",
+    "referenceBuilding": "Al lado de la unidad de Transportes",
+    "lat": -12.0328752,
+    "lng": -75.2396928,
+    "photoUrl": "https://images.unsplash.com/photo-1449965408869-eaa3f722e40d?w=800&q=80",
+    "conservationState": "regular",
+    "accessibility": "nivel",
+    "observations": "Sin techo, despintado",
+    "bins": [
+      {
+        "categoryId": "organico",
+        "quantity": 1,
+        "condition": "fair"
+      },
+      {
+        "categoryId": "inorganico",
+        "quantity": 1,
+        "condition": "fair"
+      }
+    ],
+    "active": true
+  },
+  {
+    "id": "P32",
+    "code": "P32",
+    "name": "Laboratorio LOPU - FIQ",
+    "referenceBuilding": "Entrada a LOPU",
+    "lat": -12.03267,
+    "lng": -75.239322,
+    "photoUrl": "https://images.unsplash.com/photo-1581091226825-a6a2a5aee158?w=800&q=80",
+    "conservationState": "regular",
+    "accessibility": "nivel",
+    "observations": "Sin techo, despintado",
+    "bins": [
+      {
+        "categoryId": "organico",
+        "quantity": 1,
+        "condition": "fair"
+      },
+      {
+        "categoryId": "inorganico",
+        "quantity": 1,
+        "condition": "fair"
+      }
+    ],
+    "active": true
+  },
+  {
+    "id": "P33",
+    "code": "P33",
+    "name": "Laboratorio No Metales FIQ - Espaldas",
+    "referenceBuilding": "Espaldas del Laboratorio No Metales",
+    "lat": -12.0326257,
+    "lng": -75.2390169,
+    "photoUrl": "https://images.unsplash.com/photo-1581091226825-a6a2a5aee158?w=800&q=80",
+    "conservationState": "bueno",
+    "accessibility": "nivel",
+    "observations": "Techado",
+    "bins": [
+      {
+        "categoryId": "plastico",
+        "quantity": 1,
+        "condition": "fair"
+      },
+      {
+        "categoryId": "papel_carton",
+        "quantity": 1,
+        "condition": "fair"
+      },
+      {
+        "categoryId": "no_aprovechable",
+        "quantity": 1,
+        "condition": "fair"
+      },
+      {
+        "categoryId": "vidrio",
+        "quantity": 1,
+        "condition": "fair"
+      },
+      {
+        "categoryId": "organico",
+        "quantity": 1,
+        "condition": "fair"
+      }
+    ],
+    "active": true
+  },
+  {
+    "id": "P34",
+    "code": "P34",
+    "name": "Laboratorio No Metales FIQ - Entrada",
+    "referenceBuilding": "Entrada a No Metales",
+    "lat": -12.03275,
+    "lng": -75.238969,
+    "photoUrl": "https://images.unsplash.com/photo-1581091226825-a6a2a5aee158?w=800&q=80",
+    "conservationState": "regular",
+    "accessibility": "nivel",
+    "observations": "Sin techo, despintado",
+    "bins": [
+      {
+        "categoryId": "organico",
+        "quantity": 1,
+        "condition": "fair"
+      },
+      {
+        "categoryId": "inorganico",
+        "quantity": 1,
+        "condition": "fair"
+      },
+      {
+        "categoryId": "peligroso",
+        "quantity": 1,
+        "condition": "fair"
+      }
+    ],
+    "active": true
+  },
+  {
+    "id": "P35",
+    "code": "P35",
+    "name": "Pabellón C - Patio FIEE",
+    "referenceBuilding": "Patio de la FIEE",
+    "lat": -12.0326142,
+    "lng": -75.2383477,
+    "photoUrl": "https://images.unsplash.com/photo-1523050854058-8df90110c9f1?w=800&q=80",
+    "conservationState": "bueno",
+    "accessibility": "nivel",
+    "observations": "Techado, acero",
+    "bins": [
+      {
+        "categoryId": "papel_carton",
+        "quantity": 1,
+        "condition": "fair"
+      },
+      {
+        "categoryId": "organico",
+        "quantity": 1,
+        "condition": "fair"
+      },
+      {
+        "categoryId": "plastico",
+        "quantity": 1,
+        "condition": "fair"
+      }
+    ],
+    "active": true
+  },
+  {
+    "id": "P36",
+    "code": "P36",
+    "name": "Pabellón C - Nombre FIQ",
+    "referenceBuilding": "Nombre Facultad de Ingeniería Química",
+    "lat": -12.0326316,
+    "lng": -75.2382816,
+    "photoUrl": "https://images.unsplash.com/photo-1532094349884-543bc11b234d?w=800&q=80",
+    "conservationState": "regular",
+    "accessibility": "nivel",
+    "observations": "Sin techo, despintado",
+    "bins": [
+      {
+        "categoryId": "organico",
+        "quantity": 1,
+        "condition": "fair"
+      },
+      {
+        "categoryId": "inorganico",
+        "quantity": 1,
+        "condition": "fair"
+      },
+      {
+        "categoryId": "peligroso",
+        "quantity": 1,
+        "condition": "fair"
+      }
+    ],
+    "active": true
+  },
+  {
+    "id": "P37",
+    "code": "P37",
+    "name": "Pabellón C - Entrada",
+    "referenceBuilding": "Entrada al Pabellón C",
+    "lat": -12.0328752,
+    "lng": -75.2383393,
+    "photoUrl": "https://images.unsplash.com/photo-1523050854058-8df90110c9f1?w=800&q=80",
+    "conservationState": "regular",
+    "accessibility": "nivel",
+    "observations": "Sin techo, despintado",
+    "bins": [
+      {
+        "categoryId": "organico",
+        "quantity": 1,
+        "condition": "fair"
+      },
+      {
+        "categoryId": "inorganico",
+        "quantity": 1,
+        "condition": "fair"
+      }
+    ],
+    "active": true
+  },
+  {
+    "id": "P38",
+    "code": "P38",
+    "name": "Facultad de Educación - Entrada",
+    "referenceBuilding": "Entrada a la Facultad de Educación",
+    "lat": -12.0322512,
+    "lng": -75.2379172,
+    "photoUrl": "https://images.unsplash.com/photo-1523050854058-8df90110c9f1?w=800&q=80",
+    "conservationState": "bueno",
+    "accessibility": "nivel",
+    "observations": "Techado",
+    "bins": [
+      {
+        "categoryId": "plastico",
+        "quantity": 1,
+        "condition": "fair"
+      },
+      {
+        "categoryId": "papel_carton",
+        "quantity": 1,
+        "condition": "fair"
+      },
+      {
+        "categoryId": "no_aprovechable",
+        "quantity": 1,
+        "condition": "fair"
+      },
+      {
+        "categoryId": "vidrio",
+        "quantity": 1,
+        "condition": "fair"
+      },
+      {
+        "categoryId": "organico",
+        "quantity": 1,
+        "condition": "fair"
+      }
+    ],
+    "active": true
+  },
+  {
+    "id": "P39",
+    "code": "P39",
+    "name": "Facultad de Educación - Sala Euclides",
+    "referenceBuilding": "Frente a la Sala de Euclides",
+    "lat": -12.0325175,
+    "lng": -75.2377,
+    "photoUrl": "https://images.unsplash.com/photo-1523050854058-8df90110c9f1?w=800&q=80",
+    "conservationState": "bueno",
+    "accessibility": "nivel",
+    "observations": "Sin techo, pintado",
+    "bins": [
+      {
+        "categoryId": "organico",
+        "quantity": 1,
+        "condition": "fair"
+      },
+      {
+        "categoryId": "inorganico",
+        "quantity": 1,
+        "condition": "fair"
+      }
+    ],
+    "active": true
+  },
+  {
+    "id": "P40",
+    "code": "P40",
+    "name": "Centro Médico",
+    "referenceBuilding": "Entrada al Centro Médico",
+    "lat": -12.0320227,
+    "lng": -75.2375092,
+    "photoUrl": "https://images.unsplash.com/photo-1523050854058-8df90110c9f1?w=800&q=80",
+    "conservationState": "regular",
+    "accessibility": "nivel",
+    "observations": "Sin techo, despintado",
+    "bins": [
+      {
+        "categoryId": "organico",
+        "quantity": 1,
+        "condition": "fair"
+      },
+      {
+        "categoryId": "inorganico",
+        "quantity": 1,
+        "condition": "fair"
+      }
+    ],
+    "active": true
+  },
+  {
+    "id": "P41",
+    "code": "P41",
+    "name": "Parque de la Integración - Dirección Biblioteca",
+    "referenceBuilding": "Dirección a la Biblioteca",
+    "lat": -12.0319519,
+    "lng": -75.2362824,
+    "photoUrl": "https://images.unsplash.com/photo-1481627834876-b7833e8f5570?w=800&q=80",
+    "conservationState": "bueno",
+    "accessibility": "nivel",
+    "observations": "Techado",
+    "bins": [
+      {
+        "categoryId": "plastico",
+        "quantity": 1,
+        "condition": "fair"
+      },
+      {
+        "categoryId": "papel_carton",
+        "quantity": 1,
+        "condition": "fair"
+      },
+      {
+        "categoryId": "no_aprovechable",
+        "quantity": 1,
+        "condition": "fair"
+      },
+      {
+        "categoryId": "vidrio",
+        "quantity": 1,
+        "condition": "fair"
+      },
+      {
+        "categoryId": "organico",
+        "quantity": 1,
+        "condition": "fair"
+      }
+    ],
+    "active": true
+  },
+  {
+    "id": "P42",
+    "code": "P42",
+    "name": "Parque de la Integración - Cafetín IIA",
+    "referenceBuilding": "Ingreso al Cafetín de Industrias Alimentarias",
+    "lat": -12.0324267,
+    "lng": -75.2366857,
+    "photoUrl": "https://images.unsplash.com/photo-1495474472287-4d71bcdd2085?w=800&q=80",
+    "conservationState": "regular",
+    "accessibility": "nivel",
+    "observations": "Sin techo, despintado",
+    "bins": [
+      {
+        "categoryId": "organico",
+        "quantity": 1,
+        "condition": "fair"
+      },
+      {
+        "categoryId": "inorganico",
+        "quantity": 1,
+        "condition": "fair"
+      }
+    ],
+    "active": true
+  },
+  {
+    "id": "P43",
+    "code": "P43",
+    "name": "Facultad de Ingeniería de Minas - Entrada",
+    "referenceBuilding": "Entrada a la Facultad de Ingeniería de Minas",
+    "lat": -12.0314334,
+    "lng": -75.2359156,
+    "photoUrl": "https://images.unsplash.com/photo-1607237138185-eedd9c632b0b?w=800&q=80",
+    "conservationState": "bueno",
+    "accessibility": "nivel",
+    "observations": "Techado",
+    "bins": [
+      {
+        "categoryId": "plastico",
+        "quantity": 1,
+        "condition": "fair"
+      },
+      {
+        "categoryId": "papel_carton",
+        "quantity": 1,
+        "condition": "fair"
+      },
+      {
+        "categoryId": "no_aprovechable",
+        "quantity": 1,
+        "condition": "fair"
+      },
+      {
+        "categoryId": "vidrio",
+        "quantity": 1,
+        "condition": "fair"
+      },
+      {
+        "categoryId": "organico",
+        "quantity": 1,
+        "condition": "fair"
+      }
+    ],
+    "active": true
+  },
+  {
+    "id": "P44",
+    "code": "P44",
+    "name": "Facultad de Metalurgia - Auditorio",
+    "referenceBuilding": "Frente al Auditorio de la FIM",
+    "lat": -12.031754,
+    "lng": -75.235993,
+    "photoUrl": "https://images.unsplash.com/photo-1607237138185-eedd9c632b0b?w=800&q=80",
+    "conservationState": "regular",
+    "accessibility": "nivel",
+    "observations": "Sin techo, despintado",
+    "bins": [
+      {
+        "categoryId": "organico",
+        "quantity": 1,
+        "condition": "fair"
+      },
+      {
+        "categoryId": "inorganico",
+        "quantity": 1,
+        "condition": "fair"
+      }
+    ],
+    "active": true
+  },
+  {
+    "id": "P45",
+    "code": "P45",
+    "name": "Facultad de Metalurgia - Patio",
+    "referenceBuilding": "Patio Ingeniería de Minas",
+    "lat": -12.03156,
+    "lng": -75.23578,
+    "photoUrl": "https://images.unsplash.com/photo-1607237138185-eedd9c632b0b?w=800&q=80",
+    "conservationState": "regular",
+    "accessibility": "nivel",
+    "observations": "Sin techo, despintado",
+    "bins": [
+      {
+        "categoryId": "organico",
+        "quantity": 1,
+        "condition": "fair"
+      },
+      {
+        "categoryId": "inorganico",
+        "quantity": 1,
+        "condition": "fair"
+      }
+    ],
+    "active": true
+  },
+  {
+    "id": "P46",
+    "code": "P46",
+    "name": "Facultad de Metalurgia y Minerales - Entrada",
+    "referenceBuilding": "Entrada a la Facultad de Ingeniería de Metalurgia y Minerales",
+    "lat": -12.0312786,
+    "lng": -75.2355404,
+    "photoUrl": "https://images.unsplash.com/photo-1607237138185-eedd9c632b0b?w=800&q=80",
+    "conservationState": "regular",
+    "accessibility": "nivel",
+    "observations": "Sin techo, despintado",
+    "bins": [
+      {
+        "categoryId": "organico",
+        "quantity": 1,
+        "condition": "fair"
+      },
+      {
+        "categoryId": "inorganico",
+        "quantity": 1,
+        "condition": "fair"
+      }
+    ],
+    "active": true
+  },
+  {
+    "id": "P47",
+    "code": "P47",
+    "name": "Explanada UNCP - Techo Azul",
+    "referenceBuilding": "Entrada por el Techo Azul",
+    "lat": -12.0309832,
+    "lng": -75.2349809,
+    "photoUrl": "/images/techo-azul-p47.png",
+    "conservationState": "regular",
+    "accessibility": "nivel",
+    "observations": "Sin techo, despintado",
+    "bins": [
+      {
+        "categoryId": "organico",
+        "quantity": 1,
+        "condition": "fair"
+      },
+      {
+        "categoryId": "inorganico",
+        "quantity": 1,
+        "condition": "fair"
+      }
+    ],
+    "active": true
+  },
+  {
+    "id": "P021",
+    "code": "P021",
+    "name": "Explanada de la UNCP - Ingreso Pabellón F",
+    "referenceBuilding": "Ingreso al Pabellón F",
+    "lat": -12.0315597,
+    "lng": -75.2347294,
+    "photoUrl": "https://images.unsplash.com/photo-1523050854058-8df90110c9f1?w=800&q=80",
+    "conservationState": "regular",
+    "accessibility": "nivel",
+    "observations": "Sin techo, despintado",
+    "bins": [
+      {
+        "categoryId": "organico",
+        "quantity": 1,
+        "condition": "fair"
+      },
+      {
+        "categoryId": "inorganico",
+        "quantity": 1,
+        "condition": "fair"
+      }
+    ],
+    "active": true
+  },
+  {
+    "id": "P022",
+    "code": "P022",
+    "name": "Explanada de la UNCP - Obelisco",
+    "referenceBuilding": "Obelisco de la UNCP",
+    "lat": -12.0314823,
+    "lng": -75.234843,
+    "photoUrl": "/images/obelisco-uncp.png",
+    "conservationState": "bueno",
+    "accessibility": "nivel",
+    "observations": "Techado",
+    "bins": [
+      {
+        "categoryId": "plastico",
+        "quantity": 1,
+        "condition": "fair"
+      },
+      {
+        "categoryId": "papel_carton",
+        "quantity": 1,
+        "condition": "fair"
+      },
+      {
+        "categoryId": "no_aprovechable",
+        "quantity": 1,
+        "condition": "fair"
+      },
+      {
+        "categoryId": "vidrio",
+        "quantity": 1,
+        "condition": "fair"
+      },
+      {
+        "categoryId": "organico",
+        "quantity": 1,
+        "condition": "fair"
+      }
+    ],
+    "active": true
+  },
+  {
+    "id": "P0315",
+    "code": "P0315",
+    "name": "Pabellón A - Entrada Pabellón A",
+    "referenceBuilding": "Entrada Pabellón A",
+    "lat": -12.0326064,
+    "lng": -75.2349604,
+    "photoUrl": "https://images.unsplash.com/photo-1523050854058-8df90110c9f1?w=800&q=80",
+    "conservationState": "bueno",
+    "accessibility": "nivel",
+    "observations": "Techado 5 módulos",
+    "bins": [
+      {
+        "categoryId": "plastico",
+        "quantity": 1,
+        "condition": "fair"
+      },
+      {
+        "categoryId": "papel_carton",
+        "quantity": 1,
+        "condition": "fair"
+      },
+      {
+        "categoryId": "no_aprovechable",
+        "quantity": 1,
+        "condition": "fair"
+      },
+      {
+        "categoryId": "vidrio",
+        "quantity": 1,
+        "condition": "fair"
+      },
+      {
+        "categoryId": "organico",
+        "quantity": 1,
+        "condition": "fair"
+      }
+    ],
+    "active": true
+  },
+  {
+    "id": "P0316",
+    "code": "P0316",
+    "name": "Pabellón A - Entrada Pabellón A Vehículos",
+    "referenceBuilding": "Entrada Pabellón A por el pase de vehículos",
+    "lat": -12.0326395,
+    "lng": -75.2349825,
+    "photoUrl": "https://images.unsplash.com/photo-1523050854058-8df90110c9f1?w=800&q=80",
+    "conservationState": "regular",
+    "accessibility": "nivel",
+    "observations": "2 módulos",
+    "bins": [
+      {
+        "categoryId": "organico",
+        "quantity": 1,
+        "condition": "fair"
+      },
+      {
+        "categoryId": "inorganico",
+        "quantity": 1,
+        "condition": "fair"
+      }
+    ],
+    "active": true
+  },
+  {
+    "id": "P0317",
+    "code": "P0317",
+    "name": "Pabellón I - Entrada Vehículos",
+    "referenceBuilding": "Entrada Pabellón A por el pase de vehículos",
+    "lat": -12.0330622,
+    "lng": -75.2359635,
+    "photoUrl": "https://images.unsplash.com/photo-1523050854058-8df90110c9f1?w=800&q=80",
+    "conservationState": "bueno",
+    "accessibility": "nivel",
+    "observations": "Techado 5 módulos",
+    "bins": [
+      {
+        "categoryId": "plastico",
+        "quantity": 1,
+        "condition": "fair"
+      },
+      {
+        "categoryId": "papel_carton",
+        "quantity": 1,
+        "condition": "fair"
+      },
+      {
+        "categoryId": "no_aprovechable",
+        "quantity": 1,
+        "condition": "fair"
+      },
+      {
+        "categoryId": "vidrio",
+        "quantity": 1,
+        "condition": "fair"
+      },
+      {
+        "categoryId": "organico",
+        "quantity": 1,
+        "condition": "fair"
+      }
+    ],
+    "active": true
+  },
+  {
+    "id": "P0318",
+    "code": "P0318",
+    "name": "Pabellón I - Zona Descanso",
+    "referenceBuilding": "Zona de descanso Pabellón A",
+    "lat": -12.0328349,
+    "lng": -75.2362076,
+    "photoUrl": "https://images.unsplash.com/photo-1523050854058-8df90110c9f1?w=800&q=80",
+    "conservationState": "bueno",
+    "accessibility": "nivel",
+    "observations": "2 módulos",
+    "bins": [
+      {
+        "categoryId": "organico",
+        "quantity": 1,
+        "condition": "fair"
+      },
+      {
+        "categoryId": "inorganico",
+        "quantity": 1,
+        "condition": "fair"
+      }
+    ],
+    "active": true
+  },
+  {
+    "id": "P0319",
+    "code": "P0319",
+    "name": "Pabellón I - Zona Descanso 2",
+    "referenceBuilding": "Zona de descanso Pabellón A",
+    "lat": -12.0327621,
+    "lng": -75.2362254,
+    "photoUrl": "https://images.unsplash.com/photo-1523050854058-8df90110c9f1?w=800&q=80",
+    "conservationState": "bueno",
+    "accessibility": "nivel",
+    "observations": "2 módulos",
+    "bins": [
+      {
+        "categoryId": "organico",
+        "quantity": 1,
+        "condition": "fair"
+      },
+      {
+        "categoryId": "inorganico",
+        "quantity": 1,
+        "condition": "fair"
+      }
+    ],
+    "active": true
+  },
+  {
+    "id": "P0320",
+    "code": "P0320",
+    "name": "Entre Pabellón I y Pabellón A - Escaleras",
+    "referenceBuilding": "Escaleras Intermedias",
+    "lat": -12.0327674,
+    "lng": -75.23645,
+    "photoUrl": "https://images.unsplash.com/photo-1523050854058-8df90110c9f1?w=800&q=80",
+    "conservationState": "regular",
+    "accessibility": "escalones",
+    "observations": "2 módulos",
+    "bins": [
+      {
+        "categoryId": "organico",
+        "quantity": 1,
+        "condition": "fair"
+      },
+      {
+        "categoryId": "inorganico",
+        "quantity": 1,
+        "condition": "fair"
+      }
+    ],
+    "active": true
+  }
+]

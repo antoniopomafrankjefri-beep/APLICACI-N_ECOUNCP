@@ -1,0 +1,170 @@
+[
+  {
+    "id": "plastico",
+    "name": {
+      "es": "Plásticos",
+      "pt": "Plásticos",
+      "en": "Plastics"
+    },
+    "containerColorName": {
+      "es": "Blanco",
+      "pt": "Branco",
+      "en": "White"
+    },
+    "colorHex": "#FFFFFF",
+    "textColorHex": "#1E293B",
+    "borderHex": "#CBD5E1",
+    "iconName": "Milk",
+    "description": {
+      "es": "Botellas de bebidas (PET), envases de yogur, bolsas limpias y tapas plásticas.",
+      "pt": "Garrafas PET, embalagens de iogurte, sacolas limpas e tampas plásticas.",
+      "en": "Beverage bottles (PET), yogurt cups, clean bags, and plastic caps."
+    },
+    "ntpNorm": "NTP 900.058:2019",
+    "confirmationStatus": "confirmed"
+  },
+  {
+    "id": "papel_carton",
+    "name": {
+      "es": "Papel y Cartón",
+      "pt": "Papel e Papelão",
+      "en": "Paper & Cardboard"
+    },
+    "containerColorName": {
+      "es": "Azul",
+      "pt": "Azul",
+      "en": "Blue"
+    },
+    "colorHex": "#2563EB",
+    "textColorHex": "#FFFFFF",
+    "borderHex": "#1D4ED8",
+    "iconName": "FileText",
+    "description": {
+      "es": "Hojas de apuntes, exámenes pasados, folletos, cajas de cartón limpias y periódicos.",
+      "pt": "Folhas de anotações, cadernos, caixas de papelão limpas e jornais.",
+      "en": "Notes sheets, past exams, brochures, clean cardboard boxes, and newspapers."
+    },
+    "ntpNorm": "NTP 900.058:2019",
+    "confirmationStatus": "confirmed"
+  },
+  {
+    "id": "no_aprovechable",
+    "name": {
+      "es": "No Aprovechables",
+      "pt": "Não Recicláveis",
+      "en": "Non-Recyclable"
+    },
+    "containerColorName": {
+      "es": "Negro",
+      "pt": "Preto",
+      "en": "Black"
+    },
+    "colorHex": "#1E293B",
+    "textColorHex": "#FFFFFF",
+    "borderHex": "#0F172A",
+    "iconName": "Trash2",
+    "description": {
+      "es": "Servilletas usadas, papel higiénico, envases con grasa, empaques metalizados de galletas/snacks y tecnopor.",
+      "pt": "Guardanapos usados, papel engordurado, embalagens de salgadinhos/biscoitos e isopor.",
+      "en": "Used napkins, greasy paper, snack foil wrappers, and styrofoam."
+    },
+    "ntpNorm": "NTP 900.058:2019",
+    "confirmationStatus": "confirmed"
+  },
+  {
+    "id": "vidrio",
+    "name": {
+      "es": "Vidrio",
+      "pt": "Vidro",
+      "en": "Glass"
+    },
+    "containerColorName": {
+      "es": "Verde",
+      "pt": "Verde",
+      "en": "Green"
+    },
+    "colorHex": "#16A34A",
+    "textColorHex": "#FFFFFF",
+    "borderHex": "#15803D",
+    "iconName": "Wine",
+    "description": {
+      "es": "Botellas de gaseosa de vidrio, frascos de café o mermelada limpios sin tapas.",
+      "pt": "Garrafas de vidro de refrigerante, potes de conserva limpos sem tampas.",
+      "en": "Glass beverage bottles, clean jars without caps."
+    },
+    "ntpNorm": "NTP 900.058:2019",
+    "confirmationStatus": "confirmed"
+  },
+  {
+    "id": "metal",
+    "name": {
+      "es": "Metales",
+      "pt": "Metais",
+      "en": "Metals"
+    },
+    "containerColorName": {
+      "es": "Amarillo",
+      "pt": "Amarelo",
+      "en": "Yellow"
+    },
+    "colorHex": "#F59E0B",
+    "textColorHex": "#FFFFFF",
+    "borderHex": "#D97706",
+    "iconName": "Disc",
+    "description": {
+      "es": "Latas de gaseosa (aluminio), conservas de atún enjuagadas, grapas y clips.",
+      "pt": "Latas de alumínio de refrigerante, latas de atum enxaguadas, clipes.",
+      "en": "Aluminum drink cans, rinsed tuna cans, staples, and clips."
+    },
+    "ntpNorm": "NTP 900.058:2019",
+    "confirmationStatus": "confirmed"
+  },
+  {
+    "id": "organico",
+    "name": {
+      "es": "Orgánicos",
+      "pt": "Orgânicos",
+      "en": "Organic"
+    },
+    "containerColorName": {
+      "es": "Marrón",
+      "pt": "Marrom",
+      "en": "Brown"
+    },
+    "colorHex": "#78350F",
+    "textColorHex": "#FFFFFF",
+    "borderHex": "#451A03",
+    "iconName": "Apple",
+    "description": {
+      "es": "Cáscaras de frutas (plátano, mandarina), restos de comida del comedor, hojas secas y restos de café.",
+      "pt": "Cascas de frutas (banana, mexerica), sobras de alimentos, folhas e pó de café.",
+      "en": "Fruit peels (banana, orange), dining hall food scraps, dry leaves, coffee grounds."
+    },
+    "ntpNorm": "NTP 900.058:2019",
+    "confirmationStatus": "confirmed"
+  },
+  {
+    "id": "peligroso",
+    "name": {
+      "es": "Peligrosos",
+      "pt": "Perigosos",
+      "en": "Hazardous"
+    },
+    "containerColorName": {
+      "es": "Rojo",
+      "pt": "Vermelho",
+      "en": "Red"
+    },
+    "colorHex": "#DC2626",
+    "textColorHex": "#FFFFFF",
+    "borderHex": "#B91C1C",
+    "iconName": "AlertTriangle",
+    "description": {
+      "es": "Pilas gastadas, baterías de celular, reactivos o solventes de laboratorios, mascarillas usadas y focos.",
+      "pt": "Pilhas usadas, baterias, reagentes de laboratório, máscaras usadas e lâmpadas.",
+      "en": "Used batteries, mobile batteries, laboratory chemical solvents, used masks, fluorescent bulbs."
+    },
+    "ntpNorm": "NTP 900.058:2019",
+    "confirmationStatus": "confirmed"
+  }
+]

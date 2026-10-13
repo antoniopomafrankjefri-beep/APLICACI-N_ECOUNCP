@@ -1,0 +1,1685 @@
+[
+  {
+    "id": "item-01",
+    "name": {
+      "es": "Botella de plástico (PET)",
+      "pt": "Garrafa de plástico (PET)",
+      "en": "Plastic bottle (PET)"
+    },
+    "synonyms": {
+      "es": [
+        "botella de agua",
+        "botella de gaseosa",
+        "frasco pet",
+        "plastico pet",
+        "cielo",
+        "san mateo"
+      ],
+      "pt": [
+        "garrafa pet",
+        "garrafa descartavel"
+      ],
+      "en": [
+        "water bottle",
+        "soda bottle",
+        "pet bottle"
+      ]
+    },
+    "categoryId": "plastico",
+    "explanation": {
+      "es": "El plástico PET es 100% reciclable mecánicamente para producir nuevas fibras textiles y botellas.",
+      "pt": "O plástico PET é 100% reciclável para fabricar novas garrafas e tecidos.",
+      "en": "PET plastic is 100% mechanically recyclable into new bottles and textiles."
+    },
+    "observation": {
+      "es": "Vaciar todo el líquido, aplastar para reducir volumen y colocar la tapa.",
+      "pt": "Esvaziar o líquido, amassar para reduzir volume e colocar a tampa.",
+      "en": "Empty all liquids, crush to save space, and keep cap on."
+    },
+    "iconName": "Milk",
+    "commonInCampus": true,
+    "environmentalImpact": {
+      "es": "El plástico tarda hasta 500 años en degradarse. Reciclarlo ahorra petróleo y evita microplásticos en ríos.",
+      "pt": "O plástico leva até 500 anos para se degradar. Reciclar economiza petróleo e evita microplásticos nos rios.",
+      "en": "Plastic takes up to 500 years to decompose. Recycling saves oil and prevents microplastics in waterways."
+    }
+  },
+  {
+    "id": "item-02",
+    "name": {
+      "es": "Botella de plástico con líquido",
+      "pt": "Garrafa plástica com líquido",
+      "en": "Plastic bottle with liquid"
+    },
+    "synonyms": {
+      "es": [
+        "botella llena",
+        "botella con refresco",
+        "agua sobrante"
+      ],
+      "pt": [
+        "garrafa com agua",
+        "garrafa cheia"
+      ],
+      "en": [
+        "full bottle",
+        "bottle with juice"
+      ]
+    },
+    "categoryId": "plastico",
+    "explanation": {
+      "es": "El envase es reciclable, pero los líquidos contaminan los fardos de plástico y generan moho y malos olores.",
+      "pt": "A embalagem é reciclável, mas o líquido contamina o lote de reciclagem.",
+      "en": "The container is recyclable, but liquids ruin compacting and cause foul odors."
+    },
+    "observation": {
+      "es": "¡Importante! Vaciar el líquido en un lavadero antes de depositar en el contenedor blanco.",
+      "pt": "Atenção: esvazie o líquido na pia antes de descartar no recipiente branco.",
+      "en": "Important! Pour out all liquid in a sink before tossing into the white bin."
+    },
+    "iconName": "AlertCircle",
+    "commonInCampus": true,
+    "environmentalImpact": {
+      "es": "El plástico tarda hasta 500 años en degradarse. Reciclarlo ahorra petróleo y evita microplásticos en ríos.",
+      "pt": "O plástico leva até 500 anos para se degradar. Reciclar economiza petróleo e evita microplásticos nos rios.",
+      "en": "Plastic takes up to 500 years to decompose. Recycling saves oil and prevents microplastics in waterways."
+    }
+  },
+  {
+    "id": "item-03",
+    "name": {
+      "es": "Hojas de apuntes y exámenes",
+      "pt": "Folhas de anotações e provas",
+      "en": "Notes sheets & printed exams"
+    },
+    "synonyms": {
+      "es": [
+        "hoja bond",
+        "papel bond",
+        "fotocopias",
+        "separatas",
+        "silabo",
+        "cuaderno"
+      ],
+      "pt": [
+        "folha sulfite",
+        "xerox",
+        "folha de caderno"
+      ],
+      "en": [
+        "printouts",
+        "photocopies",
+        "exam sheets",
+        "notebook paper"
+      ]
+    },
+    "categoryId": "papel_carton",
+    "explanation": {
+      "es": "La fibra de celulosa virgen y reciclada puede recuperarse hasta 6 veces para nuevo papel.",
+      "pt": "As fibras de celulose limpas podem ser recicladas várias vezes.",
+      "en": "Clean cellulose fibers can be reprocessed multiple times into new paper."
+    },
+    "observation": {
+      "es": "Deben estar secas y sin restos de comida ni grasa. Retirar clips metálicos si es posible.",
+      "pt": "Devem estar secas e sem óleo. Retire grampos se puder.",
+      "en": "Must be dry and clean without grease. Remove staples if possible."
+    },
+    "iconName": "FileText",
+    "commonInCampus": true,
+    "environmentalImpact": {
+      "es": "Reciclar 1 tonelada de papel salva 17 árboles y 26,000 litros de agua.",
+      "pt": "Reciclar 1 tonelada de papel salva 17 árvores e 26.000 litros de água.",
+      "en": "Recycling 1 ton of paper saves 17 trees and 26,000 liters of water."
+    }
+  },
+  {
+    "id": "item-04",
+    "name": {
+      "es": "Servilleta de papel usada",
+      "pt": "Guardanapo de papel usado",
+      "en": "Used paper napkin"
+    },
+    "synonyms": {
+      "es": [
+        "papel servilleta",
+        "papel higienico",
+        "papel toalla usado",
+        "panuelo descartable"
+      ],
+      "pt": [
+        "guardanapo sujo",
+        "papel toalha usado",
+        "lenco"
+      ],
+      "en": [
+        "used napkin",
+        "paper towel",
+        "tissue paper"
+      ]
+    },
+    "categoryId": "no_aprovechable",
+    "explanation": {
+      "es": "Las servilletas tienen fibras muy cortas y al estar usadas con grasa o fluidos no pueden someterse al proceso de reciclaje de celulosa.",
+      "pt": "Fibras curtas e gordura impedem a reciclagem industrial do papel.",
+      "en": "Short pulp fibers and grease contamination make paper reprocessing impossible."
+    },
+    "observation": {
+      "es": "Va al tacho negro (no aprovechable). Nunca lo mezcles con papel bond azul.",
+      "pt": "Descarte na lixeira preta (não aproveitável).",
+      "en": "Discard into the black bin (non-recyclable). Never mix with blue paper."
+    },
+    "iconName": "Trash2",
+    "commonInCampus": true,
+    "environmentalImpact": {
+      "es": "Los no aprovechables terminan en relleno sanitario. Reducir su generación alarga la vida útil del relleno.",
+      "pt": "Os não aproveitáveis vão para aterro. Reduzir sua geração prolonga a vida útil do aterro.",
+      "en": "Non-recyclables go to landfill. Reducing them extends landfill lifespan."
+    }
+  },
+  {
+    "id": "item-05",
+    "name": {
+      "es": "Caja de pizza con grasa",
+      "pt": "Caixa de pizza engordurada",
+      "en": "Greasy pizza box"
+    },
+    "synonyms": {
+      "es": [
+        "carton grasoso",
+        "empaque de comida rápida",
+        "caja de hamburguesa"
+      ],
+      "pt": [
+        "caixa com queijo",
+        "cartolina com gordura"
+      ],
+      "en": [
+        "oily cardboard",
+        "fast food box"
+      ]
+    },
+    "categoryId": "no_aprovechable",
+    "explanation": {
+      "es": "La grasa se adhiere a las fibras de cartón y repele el agua en las plantas de reciclaje de pulpa.",
+      "pt": "A gordura do queijo e óleo arruína o processo de reciclagem da polpa.",
+      "en": "Oil and cheese residue ruins the hydro-pulping process in paper mills."
+    },
+    "observation": {
+      "es": "Si la tapa superior está totalmente limpia, puedes recortarla para el tacho azul; la parte grasosa va al negro.",
+      "pt": "Se a tampa superior estiver limpa, rasgue para o azul; a parte suja vai no preto.",
+      "en": "If the clean top lid has no grease, tear it off for the blue bin; greasy part goes to black."
+    },
+    "iconName": "Box",
+    "commonInCampus": true,
+    "environmentalImpact": {
+      "es": "Los no aprovechables terminan en relleno sanitario. Reducir su generación alarga la vida útil del relleno.",
+      "pt": "Os não aproveitáveis vão para aterro. Reduzir sua geração prolonga a vida útil do aterro.",
+      "en": "Non-recyclables go to landfill. Reducing them extends landfill lifespan."
+    }
+  },
+  {
+    "id": "item-06",
+    "name": {
+      "es": "Empaque de galletas o papas fritas (metalizado)",
+      "pt": "Embalagem metalizada de salgadinho/biscoito",
+      "en": "Snack chip foil bag"
+    },
+    "synonyms": {
+      "es": [
+        "bolsa de papitas",
+        "envoltorio de galleta",
+        "lays",
+        "doritos",
+        "sublime",
+        "empaque trilaminado"
+      ],
+      "pt": [
+        "saco de salgadinho",
+        "embalagem brilhante"
+      ],
+      "en": [
+        "chip bag",
+        "crisp bag",
+        "metallic wrapper"
+      ]
+    },
+    "categoryId": "no_aprovechable",
+    "explanation": {
+      "es": "Son películas multicapa (polipropileno orientado con capa de aluminio vaporizado) inseparables en plantas convencionales.",
+      "pt": "São plásticos metalizados multicamada impossíveis de separar comercialmente.",
+      "en": "Multi-layer laminate plastic with vaporized aluminum is non-recyclable."
+    },
+    "observation": {
+      "es": "No es metal ni plástico simple; depositar en el contenedor negro.",
+      "pt": "Não é metal nem plástico comum; descarte no preto.",
+      "en": "It is not metal nor simple plastic; discard in the black container."
+    },
+    "iconName": "Layers",
+    "commonInCampus": true,
+    "environmentalImpact": {
+      "es": "Los no aprovechables terminan en relleno sanitario. Reducir su generación alarga la vida útil del relleno.",
+      "pt": "Os não aproveitáveis vão para aterro. Reduzir sua geração prolonga a vida útil do aterro.",
+      "en": "Non-recyclables go to landfill. Reducing them extends landfill lifespan."
+    }
+  },
+  {
+    "id": "item-07",
+    "name": {
+      "es": "Lata de gaseosa o energizante (Aluminio)",
+      "pt": "Lata de alumínio de refrigerante",
+      "en": "Aluminum drink can"
+    },
+    "synonyms": {
+      "es": [
+        "lata de monster",
+        "lata de cerveza",
+        "lata de red bull",
+        "lata de fanta"
+      ],
+      "pt": [
+        "latinha",
+        "lata de refri"
+      ],
+      "en": [
+        "soda can",
+        "energy drink can",
+        "tin"
+      ]
+    },
+    "categoryId": "metal",
+    "explanation": {
+      "es": "El aluminio ahorra hasta un 95% de energía al reciclarse frente a la extracción de bauxita virgen.",
+      "pt": "Reciclar alumínio economiza 95% de energia em relação à extração primária.",
+      "en": "Recycling aluminum saves 95% energy compared to raw bauxite extraction."
+    },
+    "observation": {
+      "es": "Vaciar líquido residual y aplastar con el pie o mano para optimizar espacio.",
+      "pt": "Esvaziar resíduos e amassar a latinha.",
+      "en": "Empty leftover liquid and crush to maximize container capacity."
+    },
+    "iconName": "Disc",
+    "commonInCampus": true,
+    "environmentalImpact": {
+      "es": "El aluminio reciclado usa 95% menos energía que el primario. Cada lata cuenta.",
+      "pt": "O alumínio reciclado usa 95% menos energia que o primário. Cada lata conta.",
+      "en": "Recycled aluminum uses 95% less energy than primary. Every can counts."
+    }
+  },
+  {
+    "id": "item-08",
+    "name": {
+      "es": "Lata de atún o conservas (Hojalata)",
+      "pt": "Lata de conserva de atum",
+      "en": "Canned tuna or food tin"
+    },
+    "synonyms": {
+      "es": [
+        "conserva de pescado",
+        "lata de leche",
+        "lata de durazno"
+      ],
+      "pt": [
+        "lata de sardinha",
+        "lata de leite condensado"
+      ],
+      "en": [
+        "tinned food",
+        "tin can",
+        "canned food"
+      ]
+    },
+    "categoryId": "metal",
+    "explanation": {
+      "es": "El acero/hojalata es un metal ferromagnético fácil de separar y refundir infinitamente.",
+      "pt": "O aço e folha-de-flandres são 100% recicláveis.",
+      "en": "Steel and tinplate are endlessly recyclable metals."
+    },
+    "observation": {
+      "es": "Enjuagar ligeramente con agua para evitar malos olores y plagas en el campus.",
+      "pt": "Enxaguar para retirar óleo e resíduos.",
+      "en": "Rinse lightly with water to eliminate food odor and pests."
+    },
+    "iconName": "Disc",
+    "commonInCampus": true,
+    "environmentalImpact": {
+      "es": "El aluminio reciclado usa 95% menos energía que el primario. Cada lata cuenta.",
+      "pt": "O alumínio reciclado usa 95% menos energia que o primário. Cada lata conta.",
+      "en": "Recycled aluminum uses 95% less energy than primary. Every can counts."
+    }
+  },
+  {
+    "id": "item-09",
+    "name": {
+      "es": "Cáscara de fruta (plátano, mandarina, manzana)",
+      "pt": "Casca de frutas (banana, mexerica, maçã)",
+      "en": "Fruit peel (banana, orange, apple)"
+    },
+    "synonyms": {
+      "es": [
+        "cascara de platano",
+        "cascara de mandarina",
+        "corazon de manzana",
+        "pepa de palta",
+        "fruta podrida"
+      ],
+      "pt": [
+        "casca de banana",
+        "bagaço de laranja"
+      ],
+      "en": [
+        "banana peel",
+        "orange peel",
+        "apple core"
+      ]
+    },
+    "categoryId": "organico",
+    "explanation": {
+      "es": "La materia orgánica puede transformarse en compost o abono natural para las áreas verdes de la UNCP.",
+      "pt": "Transforma-se em composto orgânico fértil para áreas verdes.",
+      "en": "Organic matter can be composted into soil fertilizer for UNCP gardens."
+    },
+    "observation": {
+      "es": "No arrojar bolsas plásticas dentro del contenedor marrón de orgánicos.",
+      "pt": "Não jogue sacolas plásticas junto dos orgânicos.",
+      "en": "Do not throw plastic wraps or stickers into the brown organic bin."
+    },
+    "iconName": "Apple",
+    "commonInCampus": true,
+    "environmentalImpact": {
+      "es": "Los orgánicos en relleno sanitario generan metano (25x más potente que CO₂). Compostearlos crea abono.",
+      "pt": "Orgânicos em aterro geram metano (25x mais potente que CO₂). Compostar cria adubo.",
+      "en": "Organics in landfill produce methane (25x more potent than CO₂). Composting creates fertilizer."
+    }
+  },
+  {
+    "id": "item-10",
+    "name": {
+      "es": "Restos de comida y almuerzo del Comedor",
+      "pt": "Restos de refeição do refeitório",
+      "en": "Dining hall food scraps"
+    },
+    "synonyms": {
+      "es": [
+        "arroz sobrante",
+        "huesos de pollo",
+        "fideos",
+        "pan duro",
+        "sobras del comedor"
+      ],
+      "pt": [
+        "comida do bandejao",
+        "sobras de prato"
+      ],
+      "en": [
+        "leftover lunch",
+        "chicken bones",
+        "bread crusts"
+      ]
+    },
+    "categoryId": "organico",
+    "explanation": {
+      "es": "Los residuos biológicos de cocinas y comensales son aptos para compostaje o biodigestión.",
+      "pt": "Resíduos orgânicos adequados para compostagem ou biodigestor.",
+      "en": "Biodegradable meal scraps can be composted into fertile humus."
+    },
+    "observation": {
+      "es": "Separar tenedores o cucharas plásticas antes de desechar.",
+      "pt": "Remova talheres e guardanapos plásticos antes.",
+      "en": "Remove any plastic cutlery or wrap before dumping."
+    },
+    "iconName": "Apple",
+    "commonInCampus": true,
+    "environmentalImpact": {
+      "es": "Los orgánicos en relleno sanitario generan metano (25x más potente que CO₂). Compostearlos crea abono.",
+      "pt": "Orgânicos em aterro geram metano (25x mais potente que CO₂). Compostar cria adubo.",
+      "en": "Organics in landfill produce methane (25x more potent than CO₂). Composting creates fertilizer."
+    }
+  },
+  {
+    "id": "item-11",
+    "name": {
+      "es": "Botella de vidrio de gaseosa o jugo",
+      "pt": "Garrafa de vidro de suco ou refrigerante",
+      "en": "Glass beverage bottle"
+    },
+    "synonyms": {
+      "es": [
+        "frasco de vidrio",
+        "botella de cerveza de vidrio",
+        "inka cola de vidrio"
+      ],
+      "pt": [
+        "garrafa de cerveja",
+        "recipiente de vidro"
+      ],
+      "en": [
+        "glass bottle",
+        "soda glass bottle"
+      ]
+    },
+    "categoryId": "vidrio",
+    "explanation": {
+      "es": "El vidrio es 100% reciclable en un ciclo infinito sin perder pureza ni calidad química.",
+      "pt": "O vidro é infinitamente reciclável sem perda de pureza.",
+      "en": "Glass is 100% recyclable indefinitely without degradation."
+    },
+    "observation": {
+      "es": "Retirar la tapa metálica o plástica (va en su contenedor respectivo). Descartar con cuidado para evitar roturas.",
+      "pt": "Remova a tampa metálica ou plástica e descarte sem quebrar.",
+      "en": "Remove metal crown/cap (goes to metal or plastic). Place gently to avoid breakage."
+    },
+    "iconName": "Wine",
+    "commonInCampus": true,
+    "environmentalImpact": {
+      "es": "El vidrio es 100% reciclable infinitas veces sin perder calidad. Ahorra arena y energía.",
+      "pt": "O vidro é 100% reciclável infinitas vezes sem perder qualidade. Economiza areia e energia.",
+      "en": "Glass is 100% infinitely recyclable without quality loss. Saves sand and energy."
+    }
+  },
+  {
+    "id": "item-12",
+    "name": {
+      "es": "Vidrio o vaso roto",
+      "pt": "Cacos de vidro / copo quebrado",
+      "en": "Broken glass shards"
+    },
+    "synonyms": {
+      "es": [
+        "vaso roto",
+        "vidrio quebrado",
+        "tubo de ensayo roto",
+        "ventana rota"
+      ],
+      "pt": [
+        "vidro quebrado",
+        "cacos"
+      ],
+      "en": [
+        "broken glass",
+        "glass shards"
+      ]
+    },
+    "categoryId": "vidrio",
+    "explanation": {
+      "es": "El vidrio roto representa riesgo inmediato de corte punzopenetrante para el personal de limpieza de la UNCP.",
+      "pt": "Oferece risco direto de corte e acidentes aos trabalhadores de limpeza.",
+      "en": "Presents an immediate puncture/cut hazard to campus cleaning staff."
+    },
+    "observation": {
+      "es": "Envolver en papel periódico grueso o caja de cartón rotulada con 'VIDRIO ROTO' antes de depositar en el contenedor verde.",
+      "pt": "Embrulhe em jornal grosso ou caixa com aviso 'VIDRO QUEBRADO' antes de colocar no recipiente verde.",
+      "en": "Wrap in thick cardboard or newspapers marked 'BROKEN GLASS' before placing in green glass bin."
+    },
+    "iconName": "AlertTriangle",
+    "commonInCampus": false,
+    "environmentalImpact": {
+      "es": "El vidrio es 100% reciclable infinitas veces sin perder calidad. El vidrio roto debe envolverse para proteger al personal de limpieza.",
+      "pt": "O vidro é 100% infinitamente reciclável sem perder qualidade. Vidro quebrado deve ser embrulhado para proteger trabalhadores.",
+      "en": "Glass is 100% infinitely recyclable without quality loss. Broken glass must be wrapped to protect cleaning staff."
+    }
+  },
+  {
+    "id": "item-13",
+    "name": {
+      "es": "Pilas comunes y alcalinas (AA, AAA)",
+      "pt": "Pilhas alcalinas e comuns (AA, AAA)",
+      "en": "Alkaline batteries (AA, AAA)"
+    },
+    "synonyms": {
+      "es": [
+        "baterias",
+        "pilas gastadas",
+        "pilas de reloj",
+        "duracell",
+        "panasonic"
+      ],
+      "pt": [
+        "pilhas usadas",
+        "bateria"
+      ],
+      "en": [
+        "batteries",
+        "aa batteries",
+        "dry cell"
+      ]
+    },
+    "categoryId": "peligroso",
+    "explanation": {
+      "es": "Contienen metales pesados (mercurio, cadmio, plomo) que lixivian y pueden contaminar hasta 600,000 litros de agua subterránea.",
+      "pt": "Metais pesados tóxicos contaminam o solo e os lençóis freáticos.",
+      "en": "Contain toxic heavy metals that can leach and contaminate groundwater."
+    },
+    "observation": {
+      "es": "Colocar en el contenedor rojo especial para RAEE/pilas. Nunca botar al tacho común.",
+      "pt": "Descarte exclusivo no ponto de coleta vermelho.",
+      "en": "Deposit into red hazardous/e-waste containers only. Never toss in trash."
+    },
+    "iconName": "BatteryWarning",
+    "commonInCampus": true,
+    "environmentalImpact": {
+      "es": "Pilas y baterías filtran metales pesados que contaminan 600,000 litros de agua por unidad.",
+      "pt": "Pilhas e baterias vazam metais pesados que contaminam 600.000 litros de água por unidade.",
+      "en": "Batteries leak heavy metals contaminating 600,000 liters of water per unit."
+    }
+  },
+  {
+    "id": "item-14",
+    "name": {
+      "es": "Vaso descartable de café (polipapel)",
+      "pt": "Copo descartável de café (papel impermeabilizado)",
+      "en": "Disposable paper coffee cup"
+    },
+    "synonyms": {
+      "es": [
+        "vaso de cafe",
+        "vaso starbucks",
+        "vaso termico de carton",
+        "vaso con cera"
+      ],
+      "pt": [
+        "copo de cafe quente",
+        "copo impermeavel"
+      ],
+      "en": [
+        "coffee cup",
+        "to-go paper cup"
+      ]
+    },
+    "categoryId": "no_aprovechable",
+    "explanation": {
+      "es": "Aunque parece cartón, tiene una película interna de polietileno fusionada que las plantas de papel no pueden disolver.",
+      "pt": "Possui fina lâmina interna de polietileno fundida à fibra celulósica.",
+      "en": "Lined with a fused inner polyethylene coating that paper mills cannot separate."
+    },
+    "observation": {
+      "es": "El vaso va al tacho negro. La tapa plástica (generalmente PS o PP) puede ir al tacho blanco si está limpia.",
+      "pt": "O copo vai no preto. A tampa plástica pode ir no branco se limpa.",
+      "en": "Cup goes into black bin. Plastic lid can go into white bin if clean."
+    },
+    "iconName": "Coffee",
+    "commonInCampus": true,
+    "environmentalImpact": {
+      "es": "Los no aprovechables terminan en relleno sanitario. Reducir su generación alarga la vida útil del relleno.",
+      "pt": "Os não aproveitáveis vão para aterro. Reduzir sua geração prolonga a vida útil do aterro.",
+      "en": "Non-recyclables go to landfill. Reducing them extends landfill lifespan."
+    }
+  },
+  {
+    "id": "item-15",
+    "name": {
+      "es": "Envase de tecnopor (poliestireno expandido)",
+      "pt": "Embalagem de isopor (tecnopor)",
+      "en": "Styrofoam container"
+    },
+    "synonyms": {
+      "es": [
+        "tecnopor",
+        "isopor",
+        "taper descartable blanco",
+        "plato de tecnopor"
+      ],
+      "pt": [
+        "marmitex de isopor",
+        "bandeja de isopor"
+      ],
+      "en": [
+        "polystyrene",
+        "styrofoam takeout"
+      ]
+    },
+    "categoryId": "no_aprovechable",
+    "explanation": {
+      "es": "El poliestireno expandido es 95% aire y no cuenta con cadena de reciclaje local en Huancayo; tarda 500 años en fragmentarse.",
+      "pt": "Material não reciclado comercialmente na região; polui o meio ambiente.",
+      "en": "Not practically recycled in regional facilities; fragments into persistent microplastics."
+    },
+    "observation": {
+      "es": "Depositar en el tacho negro. ¡Intenta evitar su uso trayendo tu propio táper!",
+      "pt": "Descarte no preto. Prefira recipientes reutilizáveis.",
+      "en": "Discard into black bin. Try to bring reusable containers to campus!"
+    },
+    "iconName": "Trash2",
+    "commonInCampus": true,
+    "environmentalImpact": {
+      "es": "Los no aprovechables terminan en relleno sanitario. Reducir su generación alarga la vida útil del relleno.",
+      "pt": "Os não aproveitáveis vão para aterro. Reduzir sua geração prolonga a vida útil do aterro.",
+      "en": "Non-recyclables go to landfill. Reducing them extends landfill lifespan."
+    }
+  },
+  {
+    "id": "item-16",
+    "name": {
+      "es": "Caja de cartón limpia (embalaje)",
+      "pt": "Caixa de papelão limpa",
+      "en": "Clean cardboard box"
+    },
+    "synonyms": {
+      "es": [
+        "caja de envio",
+        "carton corrugado",
+        "caja de zapatos",
+        "empaque de encomienda"
+      ],
+      "pt": [
+        "caixa de correio",
+        "papelao ondulado"
+      ],
+      "en": [
+        "shipping box",
+        "corrugated box"
+      ]
+    },
+    "categoryId": "papel_carton",
+    "explanation": {
+      "es": "El cartón corrugado tiene fibras largas de alto valor de reincorporación productiva.",
+      "pt": "O papelão tem fibras longas de alto rendimento para reciclagem.",
+      "en": "Corrugated cardboard has high-grade long fibers easily reprocessed."
+    },
+    "observation": {
+      "es": "Desarmar y aplanar la caja para no saturar la capacidad del contenedor azul.",
+      "pt": "Desmonte e dobre a caixa para economizar espaço.",
+      "en": "Flatten and fold box flat to maximize container capacity."
+    },
+    "iconName": "Box",
+    "commonInCampus": true,
+    "environmentalImpact": {
+      "es": "Reciclar 1 tonelada de papel salva 17 árboles y 26,000 litros de agua.",
+      "pt": "Reciclar 1 tonelada de papel salva 17 árvores e 26.000 litros de água.",
+      "en": "Recycling 1 ton of paper saves 17 trees and 26,000 liters of water."
+    }
+  },
+  {
+    "id": "item-17",
+    "name": {
+      "es": "Envase de yogur o postre (plástico)",
+      "pt": "Pote de iogurte plástico",
+      "en": "Plastic yogurt cup"
+    },
+    "synonyms": {
+      "es": [
+        "vasito de yogurt",
+        "vaso gloria",
+        "envase de gelatina",
+        "pote de postre"
+      ],
+      "pt": [
+        "copinho de iogurte",
+        "pote plastico"
+      ],
+      "en": [
+        "yogurt pot",
+        "dessert cup"
+      ]
+    },
+    "categoryId": "plastico",
+    "explanation": {
+      "es": "Suele ser Polipropileno (PP) o Poliestireno de impacto (PS), reciclable si no contiene residuos lácteos fermentados.",
+      "pt": "Plástico reciclável caso esteja livre de resíduos lácteos.",
+      "en": "Recyclable plastic when free of fermented dairy residues."
+    },
+    "observation": {
+      "es": "Enjuagar rápidamente con una pizca de agua antes de depositar en el contenedor blanco.",
+      "pt": "Dê um enxágue rápido com água antes de colocar no branco.",
+      "en": "Rinse briefly with a splash of water before putting in white bin."
+    },
+    "iconName": "Milk",
+    "commonInCampus": true,
+    "environmentalImpact": {
+      "es": "El plástico tarda hasta 500 años en degradarse. Reciclarlo ahorra petróleo y evita microplásticos en ríos.",
+      "pt": "O plástico leva até 500 anos para se degradar. Reciclar economiza petróleo e evita microplásticos nos rios.",
+      "en": "Plastic takes up to 500 years to decompose. Recycling saves oil and prevents microplastics in waterways."
+    }
+  },
+  {
+    "id": "item-18",
+    "name": {
+      "es": "Tapas plásticas de botella",
+      "pt": "Tampas plásticas de garrafa",
+      "en": "Plastic bottle caps"
+    },
+    "synonyms": {
+      "es": [
+        "chapitas de plastico",
+        "taparrosca",
+        "tapa pet"
+      ],
+      "pt": [
+        "tampinhas",
+        "tampa de refri"
+      ],
+      "en": [
+        "bottle caps",
+        "plastic caps"
+      ]
+    },
+    "categoryId": "plastico",
+    "explanation": {
+      "es": "Están hechas de polietileno de alta densidad (PEAD / HDPE), uno de los plásticos más demandados para reciclaje.",
+      "pt": "Feitas de PEAD (plástico de alta densidade altamente valorizado).",
+      "en": "Made from HDPE, one of the most commercially sought-after recyclable plastics."
+    },
+    "observation": {
+      "es": "Pueden dejarse puestas en la botella aplastada o juntarse en las ánforas de recolección benéfica.",
+      "pt": "Podem ir na própria garrafa amassada ou em campanhas de doação.",
+      "en": "Leave on crushed bottle or save for university recycling drives."
+    },
+    "iconName": "CircleDot",
+    "commonInCampus": true,
+    "environmentalImpact": {
+      "es": "El plástico tarda hasta 500 años en degradarse. Reciclarlo ahorra petróleo y evita microplásticos en ríos.",
+      "pt": "O plástico leva até 500 anos para se degradar. Reciclar economiza petróleo e evita microplásticos nos rios.",
+      "en": "Plastic takes up to 500 years to decompose. Recycling saves oil and prevents microplastics in waterways."
+    }
+  },
+  {
+    "id": "item-19",
+    "name": {
+      "es": "Lapicero o bolígrafo gastado",
+      "pt": "Caneta esferográfica gasta",
+      "en": "Empty ballpoint pen"
+    },
+    "synonyms": {
+      "es": [
+        "lapicero bic",
+        "boligrafo",
+        "plumon seco",
+        "resaltador gastado"
+      ],
+      "pt": [
+        "caneta bic",
+        "marca texto seco"
+      ],
+      "en": [
+        "ballpoint pen",
+        "dry highlighter",
+        "marker"
+      ]
+    },
+    "categoryId": "no_aprovechable",
+    "explanation": {
+      "es": "Contiene mezcla de plásticos diferentes, resorte metálico, bolilla de tungsteno y residuos químicos de tinta.",
+      "pt": "Mistura componentes plásticos, metálicos e resíduos de tinta química.",
+      "en": "Combines mixed plastics, metal springs, tungsten ball, and chemical ink residues."
+    },
+    "observation": {
+      "es": "Va al contenedor negro (no aprovechable).",
+      "pt": "Descarte na lixeira preta.",
+      "en": "Goes to black non-recyclable bin."
+    },
+    "iconName": "PenTool",
+    "commonInCampus": true,
+    "environmentalImpact": {
+      "es": "Los no aprovechables terminan en relleno sanitario. Reducir su generación alarga la vida útil del relleno.",
+      "pt": "Os não aproveitáveis vão para aterro. Reduzir sua geração prolonga a vida útil do aterro.",
+      "en": "Non-recyclables go to landfill. Reducing them extends landfill lifespan."
+    }
+  },
+  {
+    "id": "item-20",
+    "name": {
+      "es": "Bolsa de plástico limpia (supermercado / tienda)",
+      "pt": "Sacola plástica limpa",
+      "en": "Clean plastic shopping bag"
+    },
+    "synonyms": {
+      "es": [
+        "bolsa de compras",
+        "bolsa plastica",
+        "bolsa de polietileno"
+      ],
+      "pt": [
+        "sacola de mercado",
+        "sacolinha"
+      ],
+      "en": [
+        "carrier bag",
+        "polyethylene bag"
+      ]
+    },
+    "categoryId": "plastico",
+    "explanation": {
+      "es": "El polietileno de baja densidad (PEBD) se puede peletizar nuevamente si no está manchado con comida.",
+      "pt": "O plástico filme PEBD pode ser reciclado quando livre de impurezas.",
+      "en": "Low-density polyethylene (LDPE) is pelletized when not contaminated with food."
+    },
+    "observation": {
+      "es": "Debe estar limpia y seca; amarrar o doblar para evitar que vuele con el viento de Huancayo.",
+      "pt": "Amarre a sacola para não voar com o vento.",
+      "en": "Keep clean and fold/tie to prevent it blowing away in the wind."
+    },
+    "iconName": "ShoppingBag",
+    "commonInCampus": true,
+    "environmentalImpact": {
+      "es": "El plástico tarda hasta 500 años en degradarse. Reciclarlo ahorra petróleo y evita microplásticos en ríos.",
+      "pt": "O plástico leva até 500 anos para se degradar. Reciclar economiza petróleo e evita microplásticos nos rios.",
+      "en": "Plastic takes up to 500 years to decompose. Recycling saves oil and prevents microplastics in waterways."
+    }
+  },
+  {
+    "id": "item-21",
+    "name": {
+      "es": "Frasco de vidrio de café o mermelada",
+      "pt": "Pote de vidro de café ou geleia",
+      "en": "Glass jar (coffee, jam)"
+    },
+    "synonyms": {
+      "es": [
+        "frasco nescafe",
+        "pote de vidrio",
+        "tarro de vidrio"
+      ],
+      "pt": [
+        "vidro de cafe",
+        "pote de conserva"
+      ],
+      "en": [
+        "glass jar",
+        "jam pot"
+      ]
+    },
+    "categoryId": "vidrio",
+    "explanation": {
+      "es": "El vidrio hueco es fundido a 1500°C sin perder masa ni propiedades de conservación.",
+      "pt": "O vidro é fundido a altas temperaturas mantendo pureza total.",
+      "en": "Glass is melted and reformed endlessly without degradation."
+    },
+    "observation": {
+      "es": "Enjuagar los restos y retirar la tapa de hojalata o plástico (la tapa va al amarillo o blanco).",
+      "pt": "Retire a tampa e enxágue resíduos de doce.",
+      "en": "Rinse out food remains and sort lid separately."
+    },
+    "iconName": "Wine",
+    "commonInCampus": false,
+    "environmentalImpact": {
+      "es": "El vidrio es 100% reciclable infinitas veces sin perder calidad. Ahorra arena y energía.",
+      "pt": "O vidro é 100% reciclável infinitas vezes sem perder qualidade. Economiza areia e energia.",
+      "en": "Glass is 100% infinitely recyclable without quality loss. Saves sand and energy."
+    }
+  },
+  {
+    "id": "item-22",
+    "name": {
+      "es": "Guantes de látex o nitrilo de laboratorio",
+      "pt": "Luvas de látex ou nitrilo de laboratório",
+      "en": "Latex / Nitrile lab gloves"
+    },
+    "synonyms": {
+      "es": [
+        "guantes quirurgicos",
+        "guantes de laboratorio",
+        "guantes desechables"
+      ],
+      "pt": [
+        "luva descartavel",
+        "luvas de procedimento"
+      ],
+      "en": [
+        "lab gloves",
+        "nitrile gloves",
+        "medical gloves"
+      ]
+    },
+    "categoryId": "peligroso",
+    "explanation": {
+      "es": "En laboratorios de la UNCP pueden estar en contacto con muestras biológicas o reactivos químicos peligrosos.",
+      "pt": "Potencialmente contaminadas com agentes químicos ou biológicos.",
+      "en": "Potentially contaminated with laboratory chemical reagents or biohazards."
+    },
+    "observation": {
+      "es": "Desechar en el contenedor rojo especial para biocontaminados del laboratorio.",
+      "pt": "Descarte na lixeira vermelha para resíduos biológicos/químicos.",
+      "en": "Deposit into red biohazard/hazardous bin inside laboratory."
+    },
+    "iconName": "AlertTriangle",
+    "commonInCampus": true,
+    "environmentalImpact": {
+      "es": "Pilas y baterías filtran metales pesados que contaminan 600,000 litros de agua por unidad.",
+      "pt": "Pilhas e baterias vazam metais pesados que contaminam 600.000 litros de água por unidade.",
+      "en": "Batteries leak heavy metals contaminating 600,000 liters of water per unit."
+    }
+  },
+  {
+    "id": "item-23",
+    "name": {
+      "es": "Mascarilla quirúrgica o KN95 usada",
+      "pt": "Máscara cirúrgica ou KN95 usada",
+      "en": "Used face mask (surgical/KN95)"
+    },
+    "synonyms": {
+      "es": [
+        "tapaboca",
+        "barbijo",
+        "mascarilla descartable"
+      ],
+      "pt": [
+        "mascara de protecao",
+        "barbante"
+      ],
+      "en": [
+        "face mask",
+        "surgical mask"
+      ]
+    },
+    "categoryId": "no_aprovechable",
+    "explanation": {
+      "es": "Está compuesta de microfibras sintéticas termoselladas y al contener aerosoles respiratorios no es reciclable.",
+      "pt": "Feita de polipropileno não-tecido com carga biológica respiratória.",
+      "en": "Made of meltblown synthetic polymer and loaded with saliva aerosols."
+    },
+    "observation": {
+      "es": "Cortar las ligas elásticas para no atrapar aves y botar en el tacho negro.",
+      "pt": "Corte os elásticos para proteger animais e descarte no preto.",
+      "en": "Snip earloops to protect birds/wildlife and discard in black bin."
+    },
+    "iconName": "Trash2",
+    "commonInCampus": true,
+    "environmentalImpact": {
+      "es": "Los no aprovechables terminan en relleno sanitario. Reducir su generación alarga la vida útil del relleno.",
+      "pt": "Os não aproveitáveis vão para aterro. Reduzir sua geração prolonga a vida útil do aterro.",
+      "en": "Non-recyclables go to landfill. Reducing them extends landfill lifespan."
+    }
+  },
+  {
+    "id": "item-24",
+    "name": {
+      "es": "Papel aluminio de cocina / sándwich",
+      "pt": "Folha de papel alumínio de lanche",
+      "en": "Aluminum kitchen foil"
+    },
+    "synonyms": {
+      "es": [
+        "papel de plata",
+        "aluminio para sandwiches",
+        "lamina de aluminio"
+      ],
+      "pt": [
+        "papel aluminio usado",
+        "marmita de aluminio"
+      ],
+      "en": [
+        "tin foil",
+        "aluminum wrap"
+      ]
+    },
+    "categoryId": "no_aprovechable",
+    "explanation": {
+      "es": "Aunque es aluminio, al ser tan delgado y estar usualmente manchado con manteca o salsas se quema en hornos de fundición y contamina.",
+      "pt": "Muito fino e com restos gordurosos que evaporam nos fornos siderúrgicos.",
+      "en": "Extremely thin foil usually coated with food grease oxidizes away during remelting."
+    },
+    "observation": {
+      "es": "Si está con grasa de comida va al contenedor negro.",
+      "pt": "Se estiver sujo com comida, descarte no preto.",
+      "en": "If soiled with food grease, discard in black bin."
+    },
+    "iconName": "Layers",
+    "commonInCampus": true,
+    "environmentalImpact": {
+      "es": "Los no aprovechables terminan en relleno sanitario. Reducir su generación alarga la vida útil del relleno.",
+      "pt": "Os não aproveitáveis vão para aterro. Reduzir sua geração prolonga a vida útil do aterro.",
+      "en": "Non-recyclables go to landfill. Reducing them extends landfill lifespan."
+    }
+  },
+  {
+    "id": "item-25",
+    "name": {
+      "es": "Cinta adhesiva / masking tape / embalaje",
+      "pt": "Fita adesiva / fita crepe",
+      "en": "Adhesive tape / Scotch tape"
+    },
+    "synonyms": {
+      "es": [
+        "scotch",
+        "cinta aislante",
+        "cinta pegante",
+        "cinta canela"
+      ],
+      "pt": [
+        "durex",
+        "fita gomada"
+      ],
+      "en": [
+        "packing tape",
+        "sellotape"
+      ]
+    },
+    "categoryId": "no_aprovechable",
+    "explanation": {
+      "es": "El adhesivo sintético no se disuelve y arruina la pulpa de papel o los molinos de plástico.",
+      "pt": "A cola química estraga as máquinas de reciclagem.",
+      "en": "Synthetic adhesives gum up paper and plastic reprocessing machinery."
+    },
+    "observation": {
+      "es": "Retirar de las cajas de cartón antes de reciclar el cartón y tirar la cinta al tacho negro.",
+      "pt": "Remova das caixas de papelão e jogue a fita no preto.",
+      "en": "Peel off boxes before recycling cardboard; tape goes into black bin."
+    },
+    "iconName": "Trash2",
+    "commonInCampus": true,
+    "environmentalImpact": {
+      "es": "Los no aprovechables terminan en relleno sanitario. Reducir su generación alarga la vida útil del relleno.",
+      "pt": "Os não aproveitáveis vão para aterro. Reduzir sua geração prolonga a vida útil do aterro.",
+      "en": "Non-recyclables go to landfill. Reducing them extends landfill lifespan."
+    }
+  },
+  {
+    "id": "item-26",
+    "name": {
+      "es": "Poco de café pasado / bagazo",
+      "pt": "Borra de café usado",
+      "en": "Used coffee grounds"
+    },
+    "synonyms": {
+      "es": [
+        "cuncho de cafe",
+        "borra de cafe",
+        "filtro con cafe"
+      ],
+      "pt": [
+        "po de cafe usado",
+        "borra"
+      ],
+      "en": [
+        "coffee grounds",
+        "spent coffee"
+      ]
+    },
+    "categoryId": "organico",
+    "explanation": {
+      "es": "Es un excelente aporte de nitrógeno para el abono y compostaje de jardines universitarios.",
+      "pt": "Riquíssimo em nitrogênio para adubação e compostagem.",
+      "en": "Rich in nitrogen; fantastic organic soil amendment and compost accelerator."
+    },
+    "observation": {
+      "es": "Depositar en el tacho marrón de orgánicos (el filtro de papel sin blanquear también puede ir si es compostable).",
+      "pt": "Despeje no recipiente marrom de orgânicos.",
+      "en": "Toss into brown organic bin."
+    },
+    "iconName": "Coffee",
+    "commonInCampus": true,
+    "environmentalImpact": {
+      "es": "Los orgánicos en relleno sanitario generan metano (25x más potente que CO₂). Compostearlos crea abono.",
+      "pt": "Orgânicos em aterro geram metano (25x mais potente que CO₂). Compostar cria adubo.",
+      "en": "Organics in landfill produce methane (25x more potent than CO₂). Composting creates fertilizer."
+    }
+  },
+  {
+    "id": "item-27",
+    "name": {
+      "es": "Envase Tetra Pak (jugo o leche)",
+      "pt": "Embalagem longa vida (Tetra Pak)",
+      "en": "Tetra Pak carton (juice/milk)"
+    },
+    "synonyms": {
+      "es": [
+        "caja de leche",
+        "tetra brik",
+        "caja de frugos",
+        "tetrapack"
+      ],
+      "pt": [
+        "caixinha de suco",
+        "leite longa vida"
+      ],
+      "en": [
+        "juice carton",
+        "aseptic carton"
+      ]
+    },
+    "categoryId": "papel_carton",
+    "explanation": {
+      "es": "Está compuesto de 75% cartón, 20% polietileno y 5% aluminio. La parte de cartón se recupera mediante hidro-despulpado.",
+      "pt": "Composto por 75% papelão, recuperável em fábricas de polpação.",
+      "en": "75% high-grade virgin paperboard easily separated in modern pulpers."
+    },
+    "observation": {
+      "es": "Enjuagar con un poco de agua, aplanar y colocar la cañita dentro o aparte. Depositar en azul (a confirmar con campus).",
+      "pt": "Enxágue, dobre para achatar e descarte no azul.",
+      "en": "Rinse, flatten completely, and place in blue bin (subject to UNCP local policy)."
+    },
+    "iconName": "Box",
+    "commonInCampus": true,
+    "environmentalImpact": {
+      "es": "Reciclar 1 tonelada de papel salva 17 árboles y 26,000 litros de agua.",
+      "pt": "Reciclar 1 tonelada de papel salva 17 árvores e 26.000 litros de água.",
+      "en": "Recycling 1 ton of paper saves 17 trees and 26,000 liters of water."
+    }
+  },
+  {
+    "id": "item-28",
+    "name": {
+      "es": "Plásticos de burbujas (embalaje de encomienda)",
+      "pt": "Plástico bolha de encomendas",
+      "en": "Bubble wrap"
+    },
+    "synonyms": {
+      "es": [
+        "burbujas protectoras",
+        "plastico de embalaje",
+        "relleno de paquete"
+      ],
+      "pt": [
+        "plastico bolha"
+      ],
+      "en": [
+        "bubble packing",
+        "air cushion"
+      ]
+    },
+    "categoryId": "plastico",
+    "explanation": {
+      "es": "Fabricado con película de polietileno de baja densidad (PEBD / LDPE), apto para reciclaje plástico.",
+      "pt": "Polietileno de baixa densidade perfeitamente reciclável.",
+      "en": "Manufactured from clean low-density polyethylene film."
+    },
+    "observation": {
+      "es": "Retirar etiquetas de papel engomadas si es posible y depositar en el contenedor blanco.",
+      "pt": "Retire etiquetas coladas e deposite no branco.",
+      "en": "Peel off paper labels if possible; toss into white plastic bin."
+    },
+    "iconName": "Layers",
+    "commonInCampus": true,
+    "environmentalImpact": {
+      "es": "El plástico tarda hasta 500 años en degradarse. Reciclarlo ahorra petróleo y evita microplásticos en ríos.",
+      "pt": "O plástico leva até 500 anos para se degradar. Reciclar economiza petróleo e evita microplásticos nos rios.",
+      "en": "Plastic takes up to 500 years to decompose. Recycling saves oil and prevents microplastics in waterways."
+    }
+  },
+  {
+    "id": "item-29",
+    "name": {
+      "es": "Colilla de cigarro",
+      "pt": "Bituca de cigarro",
+      "en": "Cigarette butt"
+    },
+    "synonyms": {
+      "es": [
+        "pucho",
+        "colilla",
+        "filtro de cigarrillo"
+      ],
+      "pt": [
+        "bituca",
+        "ponta de cigarro"
+      ],
+      "en": [
+        "cigarette end",
+        "cigarette filter"
+      ]
+    },
+    "categoryId": "no_aprovechable",
+    "explanation": {
+      "es": "El filtro es de acetato de celulosa plástico impregnado con nicotina, alquitrán y metales pesados altamente tóxicos.",
+      "pt": "Filtro plástico com nicotina e substâncias tóxicas concentradas.",
+      "en": "Plastic cellulose acetate laden with toxic nicotine, tar, and heavy metals."
+    },
+    "observation": {
+      "es": "Asegurarse de que esté completamente apagado antes de botar en el tacho negro. ¡Está prohibido fumar en campus universitario!",
+      "pt": "Certifique-se de estar bem apagada; descarte no preto.",
+      "en": "Ensure fully extinguished before disposing in black bin. Note: UNCP is a smoke-free zone!"
+    },
+    "iconName": "Trash2",
+    "commonInCampus": true,
+    "environmentalImpact": {
+      "es": "Los no aprovechables terminan en relleno sanitario. Reducir su generación alarga la vida útil del relleno.",
+      "pt": "Os não aproveitáveis vão para aterro. Reduzir sua geração prolonga a vida útil do aterro.",
+      "en": "Non-recyclables go to landfill. Reducing them extends landfill lifespan."
+    }
+  },
+  {
+    "id": "item-30",
+    "name": {
+      "es": "Grapas y clips de metal",
+      "pt": "Grampos de papel e clipes metálicos",
+      "en": "Metal paperclips & staples"
+    },
+    "synonyms": {
+      "es": [
+        "grapas de examen",
+        "clips de hojas",
+        "gancho mariposa"
+      ],
+      "pt": [
+        "grampinho",
+        "clips"
+      ],
+      "en": [
+        "staples",
+        "paperclips"
+      ]
+    },
+    "categoryId": "metal",
+    "explanation": {
+      "es": "Son pequeñas piezas de acero galvanizado que los separadores magnéticos recuperan con facilidad.",
+      "pt": "Pequenas peças de ferro/aço atraídas por eletroímãs.",
+      "en": "Galvanized steel pieces separated by magnetic extractors."
+    },
+    "observation": {
+      "es": "Si son muchos, juntar en una latita o frasquito para que no se pierdan en el contenedor amarillo.",
+      "pt": "Junte dentro de uma latinha para facilitar a coleta no amarelo.",
+      "en": "Collect inside a small tin can before tossing into yellow bin."
+    },
+    "iconName": "Disc",
+    "commonInCampus": true,
+    "environmentalImpact": {
+      "es": "El aluminio reciclado usa 95% menos energía que el primario. Cada lata cuenta.",
+      "pt": "O alumínio reciclado usa 95% menos energia que o primário. Cada lata conta.",
+      "en": "Recycled aluminum uses 95% less energy than primary. Every can counts."
+    }
+  },
+  {
+    "id": "item-31",
+    "name": {
+      "es": "Folder o archivador de cartón prensado",
+      "pt": "Pasta de papelão / fichário",
+      "en": "Cardboard document folder"
+    },
+    "synonyms": {
+      "es": [
+        "folder manila",
+        "folder de tramite",
+        "carpeta de documentos"
+      ],
+      "pt": [
+        "pasta polionda",
+        "pasta de arquivo"
+      ],
+      "en": [
+        "manila folder",
+        "file folder"
+      ]
+    },
+    "categoryId": "papel_carton",
+    "explanation": {
+      "es": "El cartón manila está compuesto de pulpa de papel reciclable.",
+      "pt": "Papelão manilha é facilmente reprocessado.",
+      "en": "Manila board is clean recyclable cellulose pulp."
+    },
+    "observation": {
+      "es": "Retirar los broches metálicos o plásticos fastener antes de depositar en el contenedor azul.",
+      "pt": "Retire o fecho metálico antes de descartar no azul.",
+      "en": "Remove metal fast-clips before placing in blue bin."
+    },
+    "iconName": "FileText",
+    "commonInCampus": true,
+    "environmentalImpact": {
+      "es": "Reciclar 1 tonelada de papel salva 17 árboles y 26,000 litros de agua.",
+      "pt": "Reciclar 1 tonelada de papel salva 17 árvores e 26.000 litros de água.",
+      "en": "Recycling 1 ton of paper saves 17 trees and 26,000 liters of water."
+    }
+  },
+  {
+    "id": "item-32",
+    "name": {
+      "es": "Folder de plástico mica / vinil",
+      "pt": "Pasta plástica / envelope plástico",
+      "en": "Plastic document sleeve"
+    },
+    "synonyms": {
+      "es": [
+        "mica transparente",
+        "folder de plastico",
+        "funda de hojas"
+      ],
+      "pt": [
+        "plastico para documentos",
+        "pasta catalogo"
+      ],
+      "en": [
+        "sheet protector",
+        "plastic pocket"
+      ]
+    },
+    "categoryId": "plastico",
+    "explanation": {
+      "es": "Generalmente de polipropileno (PP) flexible, apto para triturado y extrusión.",
+      "pt": "Geralmente polipropileno transparente reciclável.",
+      "en": "Usually clean PP film, suitable for plastic regrind."
+    },
+    "observation": {
+      "es": "Retirar hojas interiores y depositar limpio en el contenedor blanco.",
+      "pt": "Retire os papéis de dentro e descarte no branco.",
+      "en": "Remove all papers inside; deposit into white bin."
+    },
+    "iconName": "Milk",
+    "commonInCampus": true,
+    "environmentalImpact": {
+      "es": "El plástico tarda hasta 500 años en degradarse. Reciclarlo ahorra petróleo y evita microplásticos en ríos.",
+      "pt": "O plástico leva até 500 anos para se degradar. Reciclar economiza petróleo e evita microplásticos nos rios.",
+      "en": "Plastic takes up to 500 years to decompose. Recycling saves oil and prevents microplastics in waterways."
+    }
+  },
+  {
+    "id": "item-33",
+    "name": {
+      "es": "Foco fluorescente o ahorrador quemado",
+      "pt": "Lâmpada fluorescente queimada",
+      "en": "Burned-out CFL bulb"
+    },
+    "synonyms": {
+      "es": [
+        "foco led",
+        "bombilla",
+        "tubo fluorescente",
+        "foco de aula"
+      ],
+      "pt": [
+        "lampada queimada"
+      ],
+      "en": [
+        "light bulb",
+        "fluorescent tube"
+      ]
+    },
+    "categoryId": "peligroso",
+    "explanation": {
+      "es": "Los focos ahorradores y fluorescentes contienen vapor de mercurio gaseoso que daña el sistema nervioso si se inhala.",
+      "pt": "Contém vapor de mercúrio tóxico que não pode vazar.",
+      "en": "Contains toxic mercury vapor that must not be broken or inhaled."
+    },
+    "observation": {
+      "es": "Nunca romper. Entregar al personal de mantenimiento o llevar al contenedor rojo de peligrosos.",
+      "pt": "Nunca quebre. Entregue à manutenção da universidade.",
+      "en": "Do not break. Hand over to UNCP maintenance or red hazmat station."
+    },
+    "iconName": "AlertTriangle",
+    "commonInCampus": false,
+    "environmentalImpact": {
+      "es": "Pilas y baterías filtran metales pesados que contaminan 600,000 litros de agua por unidad.",
+      "pt": "Pilhas e baterias vazam metais pesados que contaminam 600.000 litros de água por unidade.",
+      "en": "Batteries leak heavy metals contaminating 600,000 liters of water per unit."
+    }
+  },
+  {
+    "id": "item-34",
+    "name": {
+      "es": "Frasco de reactivo químico de laboratorio",
+      "pt": "Frasco de reagente químico de laboratório",
+      "en": "Chemistry lab reagent bottle"
+    },
+    "synonyms": {
+      "es": [
+        "frasco de acido",
+        "bote de alcohol",
+        "reactivo de quimica",
+        "solvente"
+      ],
+      "pt": [
+        "vidro de reagente",
+        "frasco de solvente"
+      ],
+      "en": [
+        "chemical bottle",
+        "acid jar",
+        "solvent flask"
+      ]
+    },
+    "categoryId": "peligroso",
+    "explanation": {
+      "es": "Incluso vacíos, guardan vapores o trazas de reactivos corrosivos, tóxicos o inflamables.",
+      "pt": "Mantém traços de substâncias químicas perigosas e inflamáveis.",
+      "en": "Retains hazardous chemical vapors and toxic residue."
+    },
+    "observation": {
+      "es": "Seguir el protocolo de triple lavado del laboratorio y disponer en el área de residuos peligrosos (rojo).",
+      "pt": "Siga o procedimento de resíduos perigosos do laboratório.",
+      "en": "Follow laboratory hazardous waste protocols (red point)."
+    },
+    "iconName": "AlertTriangle",
+    "commonInCampus": false,
+    "environmentalImpact": {
+      "es": "Pilas y baterías filtran metales pesados que contaminan 600,000 litros de agua por unidad.",
+      "pt": "Pilhas e baterias vazam metais pesados que contaminam 600.000 litros de água por unidade.",
+      "en": "Batteries leak heavy metals contaminating 600,000 liters of water per unit."
+    }
+  },
+  {
+    "id": "item-35",
+    "name": {
+      "es": "Cubiertos descartables de plástico (tenedor / cuchara)",
+      "pt": "Talheres plásticos descartáveis",
+      "en": "Disposable plastic cutlery"
+    },
+    "synonyms": {
+      "es": [
+        "cucharita de plastico",
+        "cuchillo descartable",
+        "tenedor de comida rapida"
+      ],
+      "pt": [
+        "colher descartavel",
+        "garfo de plastico"
+      ],
+      "en": [
+        "plastic fork",
+        "plastic spoon"
+      ]
+    },
+    "categoryId": "no_aprovechable",
+    "explanation": {
+      "es": "Hechos de poliestireno frágil muy liviano y con grasa de comida que las recicladoras descartan por costo de limpieza.",
+      "pt": "Poliestireno frágil engordurado que não possui valor de mercado para reciclagem.",
+      "en": "Low-grade brittle polystyrene heavily soiled with food residue."
+    },
+    "observation": {
+      "es": "Depositar en el tacho negro de no aprovechables.",
+      "pt": "Descarte na lixeira preta.",
+      "en": "Dispose into black non-recyclable bin."
+    },
+    "iconName": "Trash2",
+    "commonInCampus": true,
+    "environmentalImpact": {
+      "es": "Los no aprovechables terminan en relleno sanitario. Reducir su generación alarga la vida útil del relleno.",
+      "pt": "Os não aproveitáveis vão para aterro. Reduzir sua geração prolonga a vida útil do aterro.",
+      "en": "Non-recyclables go to landfill. Reducing them extends landfill lifespan."
+    }
+  },
+  {
+    "id": "item-36",
+    "name": {
+      "es": "Cañita o sorbete de plástico",
+      "pt": "Canudo de plástico",
+      "en": "Plastic straw"
+    },
+    "synonyms": {
+      "es": [
+        "popote",
+        "pajita",
+        "sorbete de jugo"
+      ],
+      "pt": [
+        "canudinho"
+      ],
+      "en": [
+        "drinking straw",
+        "straw"
+      ]
+    },
+    "categoryId": "no_aprovechable",
+    "explanation": {
+      "es": "Su tamaño diminuto hace que se filtre y atasque la maquinaria de clasificación mecánica.",
+      "pt": "Tamanho diminuto que escapa às peneiras das esteiras de reciclagem.",
+      "en": "Too small to be caught by automated sorting screens; easily ends up in waterways."
+    },
+    "observation": {
+      "es": "Va al tacho negro. ¡Dile 'sin cañita' a la señora del quiosco!",
+      "pt": "Descarte no preto. Recuse canudos nos quiosques da universidade.",
+      "en": "Toss in black bin. Please refuse straws at campus kiosks!"
+    },
+    "iconName": "Trash2",
+    "commonInCampus": true,
+    "environmentalImpact": {
+      "es": "Los no aprovechables terminan en relleno sanitario. Reducir su generación alarga la vida útil del relleno.",
+      "pt": "Os não aproveitáveis vão para aterro. Reduzir sua geração prolonga a vida útil do aterro.",
+      "en": "Non-recyclables go to landfill. Reducing them extends landfill lifespan."
+    }
+  },
+  {
+    "id": "item-37",
+    "name": {
+      "es": "Hojas secas y poda de jardines UNCP",
+      "pt": "Folhas secas e grama cortada do campus",
+      "en": "Dry leaves and lawn clippings"
+    },
+    "synonyms": {
+      "es": [
+        "pasto cortado",
+        "hojas de arbol",
+        "flores marchitas",
+        "ramas"
+      ],
+      "pt": [
+        "folhas caidas",
+        "grama"
+      ],
+      "en": [
+        "garden trimmings",
+        "dry leaves",
+        "grass"
+      ]
+    },
+    "categoryId": "organico",
+    "explanation": {
+      "es": "Aporte de carbono clave para balancear la relación carbono/nitrógeno en las composteras de la universidad.",
+      "pt": "Material rico em carbono para compostagem equilibrada.",
+      "en": "Carbon-rich brown material essential for university compost piles."
+    },
+    "observation": {
+      "es": "Depositar en el contenedor marrón o en las zanjas de compostaje de Agronomía/Ciencias Forestales.",
+      "pt": "Descarte no marrom ou leve à área de compostagem.",
+      "en": "Deposit into brown bin or Agronomy department composting beds."
+    },
+    "iconName": "Apple",
+    "commonInCampus": true,
+    "environmentalImpact": {
+      "es": "Los orgánicos en relleno sanitario generan metano (25x más potente que CO₂). Compostearlos crea abono.",
+      "pt": "Orgânicos em aterro geram metano (25x mais potente que CO₂). Compostar cria adubo.",
+      "en": "Organics in landfill produce methane (25x more potent than CO₂). Composting creates fertilizer."
+    }
+  },
+  {
+    "id": "item-38",
+    "name": {
+      "es": "Goma de mascar (chicle)",
+      "pt": "Chiclete mascado",
+      "en": "Chewing gum"
+    },
+    "synonyms": {
+      "es": [
+        "chicle masticado",
+        "trident",
+        "bubbaloo"
+      ],
+      "pt": [
+        "chiclete"
+      ],
+      "en": [
+        "bubblegum",
+        "gum"
+      ]
+    },
+    "categoryId": "no_aprovechable",
+    "explanation": {
+      "es": "La base del chicle moderno es goma de polímeros sintéticos (caucho butílico) no degradables.",
+      "pt": "Borracha sintética pegajosa e não biodegradável.",
+      "en": "Made from synthetic polymers and resins that adhere and do not decompose."
+    },
+    "observation": {
+      "es": "Envolver en un papelito y tirar al tacho negro. ¡Nunca pegarlo debajo de las carpetas o carpetas de clase!",
+      "pt": "Embrulhe num papel e jogue no preto. Nunca cole sob as carteiras!",
+      "en": "Wrap in scrap paper and put into black bin. Never stick under classroom desks!"
+    },
+    "iconName": "Trash2",
+    "commonInCampus": true,
+    "environmentalImpact": {
+      "es": "Los no aprovechables terminan en relleno sanitario. Reducir su generación alarga la vida útil del relleno.",
+      "pt": "Os não aproveitáveis vão para aterro. Reduzir sua geração prolonga a vida útil do aterro.",
+      "en": "Non-recyclables go to landfill. Reducing them extends landfill lifespan."
+    }
+  },
+  {
+    "id": "item-39",
+    "name": {
+      "es": "Revista o folleto con papel couché satinado",
+      "pt": "Revista ou panfleto brilhante",
+      "en": "Glossy magazine or brochure"
+    },
+    "synonyms": {
+      "es": [
+        "catalogo",
+        "folleto de admision",
+        "revista cientifica",
+        "papel brillante"
+      ],
+      "pt": [
+        "folheto couche",
+        "revista ilustrada"
+      ],
+      "en": [
+        "glossy paper",
+        "brochure",
+        "pamphlet"
+      ]
+    },
+    "categoryId": "papel_carton",
+    "explanation": {
+      "es": "El recubrimiento de caolín brillante puede ser procesado en fábricas de reciclaje de papel siempre que no tenga películas plásticas laminadas.",
+      "pt": "Papel couché limpo é aceito nas recicladoras de papel.",
+      "en": "Coated paper without heavy plastic film lamination is recycled."
+    },
+    "observation": {
+      "es": "Va al contenedor azul si no tiene plástico plastificado impermeable.",
+      "pt": "Vai no azul se não for plastificado.",
+      "en": "Goes to blue paper bin if not film-laminated."
+    },
+    "iconName": "FileText",
+    "commonInCampus": true,
+    "environmentalImpact": {
+      "es": "Reciclar 1 tonelada de papel salva 17 árboles y 26,000 litros de agua.",
+      "pt": "Reciclar 1 tonelada de papel salva 17 árvores e 26.000 litros de água.",
+      "en": "Recycling 1 ton of paper saves 17 trees and 26,000 liters of water."
+    }
+  },
+  {
+    "id": "item-40",
+    "name": {
+      "es": "Batería de celular o laptop inflada/gastada",
+      "pt": "Bateria de celular gasta ou estufada",
+      "en": "Swollen / dead phone battery"
+    },
+    "synonyms": {
+      "es": [
+        "bateria de litio",
+        "powerbank danado",
+        "pila de celular"
+      ],
+      "pt": [
+        "bateria de litio",
+        "power bank estragado"
+      ],
+      "en": [
+        "lithium battery",
+        "power bank",
+        "laptop cell"
+      ]
+    },
+    "categoryId": "peligroso",
+    "explanation": {
+      "es": "Las baterías de iones de litio pueden incendiarse por sobrepresión o cortocircuito y contienen cobalto y litio tóxicos.",
+      "pt": "Contém lítio inflamável sob risco de combustão e contaminação severa.",
+      "en": "Lithium-ion cells pose explosive thermal runaway hazards and toxic metal leaks."
+    },
+    "observation": {
+      "es": "No perforar ni aplastar. Depositar en el punto rojo de acopio de RAEE de la UNCP.",
+      "pt": "Nunca fure nem aperte. Descarte no ponto vermelho de RAEE.",
+      "en": "Never puncture. Drop off in red hazardous E-waste station at UNCP."
+    },
+    "iconName": "BatteryWarning",
+    "commonInCampus": false,
+    "environmentalImpact": {
+      "es": "Pilas y baterías filtran metales pesados que contaminan 600,000 litros de agua por unidad.",
+      "pt": "Pilhas e baterias vazam metais pesados que contaminam 600.000 litros de água por unidade.",
+      "en": "Batteries leak heavy metals contaminating 600,000 liters of water per unit."
+    }
+  }
+]

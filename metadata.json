@@ -1,0 +1,6 @@
+{
+  "name": "EcoUNCP - Segregación y Puntos de Acopio",
+  "description": "Aplicación PWA para estudiantes de la UNCP: clasificador de residuos según norma NTP 900.058, mapa interactivo y recomendación de puntos de descarte cercanos.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
