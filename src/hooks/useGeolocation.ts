@@ -3,12 +3,7 @@ import { UserCoords } from '../types';
 import { CAMPUS_REFERENCE_SPOTS, UNCP_CAMPUS_CENTER } from '../utils/campus';
 
 export function useGeolocation() {
-  const [coords, setCoords] = useState<UserCoords>({
-    lat: CAMPUS_REFERENCE_SPOTS[0].lat, // Default to Puerta Principal UNCP
-    lng: CAMPUS_REFERENCE_SPOTS[0].lng,
-    isCustomReference: true,
-    referenceName: CAMPUS_REFERENCE_SPOTS[0].name.es,
-  });
+  const [coords, setCoords] = useState<UserCoords | null>(null);
   const [gpsStatus, setGpsStatus] = useState<'idle' | 'searching' | 'active' | 'denied' | 'error'>('idle');
   const [errorMessage, setErrorMessage] = useState<string | null>(null);
 
@@ -48,25 +43,41 @@ export function useGeolocation() {
     );
   }, []);
 
-  // Try GPS once on mount if available
+  // Auto-request GPS on mount with strict settings to get REAL position (not cached)
   useEffect(() => {
     if ('geolocation' in navigator) {
       navigator.geolocation.getCurrentPosition(
         (position) => {
-          // If within reasonable proximity of Peru/Huancayo or just active
-          setCoords({
-            lat: position.coords.latitude,
-            lng: position.coords.longitude,
-            accuracy: position.coords.accuracy,
-            isCustomReference: false,
-          });
-          setGpsStatus('active');
+          // Validate: must be a reasonable GPS position (not 0,0 or extremely inaccurate)
+          const lat = position.coords.latitude;
+          const lng = position.coords.longitude;
+          const accuracy = position.coords.accuracy;
+          
+          // Basic validation: not null island (0,0), not poles, reasonable accuracy
+          const isValidPosition = 
+            !(lat === 0 && lng === 0) &&  // Not null island
+            lat >= -90 && lat <= 90 &&    // Valid latitude
+            lng >= -180 && lng <= 180 &&  // Valid longitude
+            accuracy <= 500;              // Accept up to 500m accuracy (covers most cases)
+          
+          if (isValidPosition) {
+            setCoords({
+              lat,
+              lng,
+              accuracy,
+              isCustomReference: false,
+            });
+            setGpsStatus('active');
+          } else {
+            // Invalid position - don't set, user will choose manually
+            setGpsStatus('idle');
+          }
         },
         () => {
-          // Keep default campus reference spot
+          // Permission denied or error - keep idle, let user choose manually
           setGpsStatus('idle');
         },
-        { enableHighAccuracy: false, timeout: 5000, maximumAge: 60000 }
+        { enableHighAccuracy: true, timeout: 10000, maximumAge: 0 } // NO cache, force fresh GPS
       );
     }
   }, []);

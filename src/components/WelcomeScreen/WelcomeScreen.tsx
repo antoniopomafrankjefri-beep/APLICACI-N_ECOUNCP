@@ -292,40 +292,46 @@ export const WelcomeScreen: React.FC<WelcomeScreenProps> = ({
             )}
 
             {/* Footer institucional */}
-            <div className="mt-8 pt-4 border-t border-neutral-100">
-              {/* EcoDato Ambiental Card (FASE 7) */}
-              <motion.div
-                initial={{ opacity: 0, y: 20 }}
-                animate={{ opacity: 1, y: 0 }}
-                transition={{ delay: 0.5, type: 'spring', stiffness: 260, damping: 25 }}
-                className="ecodato-card p-4 mb-4"
-              >
-                <div className="flex items-start gap-3">
-                  <div className="flex-shrink-0 w-12 h-12 rounded-xl bg-white/80 flex items-center justify-center shadow-sm">
-                    <Leaf className="w-6 h-6 text-eco-leaf" />
-                  </div>
-                  <div className="flex-1 min-w-0">
-                    <h4 className="font-bold text-text-primary text-sm flex items-center gap-1.5">
-                      <span className="w-5 h-5 rounded-full bg-eco-leaf/10 flex items-center justify-center">
-                        <Leaf className="w-3 h-3 text-eco-leaf" />
-                      </span>
-                      <span className="text-eco-panda">{t('ecodato_title')}</span>
-                    </h4>
-                    <p className="text-text-secondary text-sm mt-1 leading-relaxed">
-                      {t('ecodato_message')}
-                    </p>
-                  </div>
-                  <motion.div
-                    animate={{ rotate: [0, 5, 0, -5, 0] }}
-                    transition={{ duration: 4, repeat: Infinity, ease: 'easeInOut' }}
-                    className="flex-shrink-0 text-eco-leaf/50"
-                  >
-                    <Globe className="w-6 h-6" />
-                  </motion.div>
-                </div>
-              </motion.div>
+                        <div className="mt-8 pt-4 border-t border-neutral-100">
+                          {/* EcoDato Ambiental Card (FASE 7) */}
+                          <motion.div
+                            initial={{ opacity: 0, y: 20 }}
+                            animate={{ opacity: 1, y: 0 }}
+                            transition={{ delay: 0.5, type: 'spring', stiffness: 260, damping: 25 }}
+                            className="ecodato-card p-4 mb-4"
+                          >
+                            <div className="flex items-start gap-3">
+                              <div className="flex-shrink-0 w-12 h-12 rounded-xl bg-white/80 flex items-center justify-center shadow-sm">
+                                <Leaf className="w-6 h-6 text-eco-leaf" />
+                              </div>
+                              <div className="flex-1 min-w-0">
+                                <h4 className="font-bold text-text-primary text-sm flex items-center gap-1.5">
+                                  <span className="w-5 h-5 rounded-full bg-eco-leaf/10 flex items-center justify-center">
+                                    <Leaf className="w-3 h-3 text-eco-leaf" />
+                                  </span>
+                                  <span className="text-eco-panda">{t('ecodato_title')}</span>
+                                </h4>
+                                <p className="text-text-secondary text-sm mt-1 leading-relaxed">
+                                  {t('ecodato_message')}
+                                </p>
+                              </div>
+                              <motion.div
+                                animate={{ rotate: [0, 5, 0, -5, 0] }}
+                                transition={{ duration: 4, repeat: Infinity, ease: 'easeInOut' }}
+                                className="flex-shrink-0 text-eco-leaf/50"
+                              >
+                                <Globe className="w-6 h-6" />
+                              </motion.div>
+                            </div>
+                          </motion.div>
               
-              <p className="text-caption text-text-tertiary text-center">
+                          {/* Créditos */}
+                          <div className="text-center text-[10px] text-text-tertiary/70 space-y-1">
+                            <p>Desarrollado por Frank Jefri Antonio Poma</p>
+                            <p>Levantamiento de coordenadas: K · M · A · A · E</p>
+                          </div>
+
+                          <p className="text-caption text-text-tertiary text-center mt-2">
                 {language === 'es' 
                   ? 'Universidad Nacional del Centro del Perú • Huancayo'
                   : language === 'pt'
